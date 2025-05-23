@@ -116,9 +116,6 @@ They did not use our consonant third, related as 4:5; the tone of their
 
 ---
 
-THE NATURE OF HARMONY. 
-
-
 scale which corresponds to our third they defined theoretically as the lower 
 octave of the fifth four times removed (c-g-d-a-e) ; and they considered it a 
 dissonance because of its complicated mathematical relations (64 : 81). To 
@@ -157,11 +154,7 @@ harmonies which lie at the foundation of polyphony ; but both theory and
 practical instruction were totally wanting in the conceptions necessary to 
 define these formations. Zarlino, in his " Instituzioni" (I. 30 and III, -31), 
 
-
 ---
-
-THE NATURE OF HARMONY. 
-
 
 contrasted two modes of dividing a string, which he called the " harmonical " 
 and the "arithmetical" (Divisione harmonica " and "Divisione aritme- 
@@ -169,46 +162,16 @@ tica"). By the "harmonical" division of the string he meant the deter-
 mining the pitch of the tones produced by the half, third, fourth, fifth and 
 sixth of the string. By the " arithmetical " division, he meant the deter- 
 mining of the pitch otmultlples of some small fraction of the 
-ggp n string, = 1:2:3:4:5:6. If we take small c as a starting 
-
-z ~ — H point, the scries of tones represented by the lengths, 1 : j : J: 
-
+string, = 1:2:3:4:5:6. If we take small c as a starting 
+point, the scries of tones represented by the lengths, 1 : j : J: 
 J : I : I will correspond to the tones c, c', g', 
-c", e", g"; that is to say, tones all of which belong to the ^p 
-major chord of c. On the other hand, if we start with the §sjz:ziziz 
+c", e", g"; that is to say, tones all of which belong to the
+major chord of c. On the other hand, if we start with the
 tone g", the series 1 : 2 : 3 : 4 : 5 : G will represent the tones 
 g", g', c', g, eb", c ; that is, tones all of which belong to the minor chord 
 below g (= c minor). Let us write both out, thus : 
 
-
-1 
-
-
-I 
-
-
-m 
-
-
-zr 
-
-
-±: 
-
-
-S 
-
-
-S3 
-
-
-te 
-
-
--t: 
-
-
-/ In other words : according to Zarlino, the minor chord is mathematically the 
+In other words : according to Zarlino, the minor chord is mathematically the 
 (exact opposite of the major chord. In feet, lie uses the terms "Divisione 
 harmonica" and "Divisione aritmetica" as meaning major and minor chord 
 respectively. Whether Zarlino made this happy discovery himself, does not 
@@ -223,8 +186,6 @@ musicians for a long time before), was mainly responsible for the stifling of
 this germ of a rational system of harmony. There was, at that time, no 
 
 ---
-
-8 THE NATURE OF HARMONY. 
 
 comprehensive nomenclature for even the simplest and most commonly used 
 chords. If the system which was to grow up had only been developed on 
@@ -266,9 +227,6 @@ ally changed to the reverse, as it is now.
 
 ---
 
-THE NATURE OF HARMONY. 
-
-
 the " discant " iu a " plagal " mode.* The idea of naming such an acci- 
 dental combination of tones had not occurred to anybody at that time; it 
 was foreign to the whole spirit of the time. No one of the combined melo- 
@@ -297,29 +255,17 @@ interval. Thus, for example, the following chords are indicated in exactly
 the same way in the thoroughbass system : — 
 
 
-i 
-
-
 * A "discant" was simply a second melody invented to go with a given bass and heard simultaneously 
 with it.— Transt.ator. 
 
 ---
 
-10 
-
-
-THE NATURE OF HARMONY. 
-
-
-m 
-
-
 Thus, since the inversions of the intervals 
 of the upper voices are of no consequence so 
 far as the figured bass is concerned, there is 
-. no possible way of indicating what interval 
+no possible way of indicating what interval 
 any given voice makes with the bass. It can- 
-Z not be denied that the thoroughbass system is 
+not be denied that the thoroughbass system is 
 an imperfect means of representing harmonies 
 theoretically ; but it was the first that was found, and was, for that reason 
 extremely useful. 
@@ -334,13 +280,6 @@ sharp, flat or natural, was any figure required.
 
 But no distinction was made between a major, minor or diminished 
 chord : — 
-
-
--i5>- 
-
-
-mm-m 
-
 
 Thus, the figured-bass system became the means of directing the develop- 
 ment of the theory and practice of harmony into quite other channels than 
@@ -357,8 +296,6 @@ From the standpoint of thoroughbass, a minor chord is no different from a
 major chord, but an inversion of a major chord is a totally different thing from 
 
 ---
-
-THE NATURE OF HARMON T. 11 
 
 the same chord in its fundamental jwsUlon. The ideas of Zarlino as to the 
 essential difference between major and minor chords, and the essential unity 
@@ -400,26 +337,13 @@ the ideas of this l>ook. The series was completed in 1700.
 
 ---
 
-J2 THE NATURE OF HARMONY. 
-
-
 further, that these tones are those which form the major chord. For example, 
 suppose a string produces the tone c, and also its twelfth, g, and seventeenth, 
 e' ; we have, then, the major chord of c, thus : For a musi- 
-
-cian of Kameau's ability, this discovery was 
-
-
-something more 
-
-
-than a curiosity, it was a revelation. It is Q— true the phe- 
-
-
+cian of Kameau's ability, this discovery was something more 
+than a curiosity, it was a revelation. It is true the phe- 
 nomenon of overtones was not wholly unknown — before Hameau. 
-
 Mersenne (1636) had called attention to them, and Sauveur 
-
 (1701) had explained them scientifically, and had emphasized their signifi- 
 cance in relation to the understanding of the principles of harmony. But 
 they never became widely known, nor came to any practical importance, as 
@@ -442,17 +366,14 @@ he thought he had discovered in the phenomenon of sympathetic vibrations
 the principle of the minor chord; for the under twelfth and seventeenth of^a 
 note make, with the original note (Rameau's "generator"), a minor chord ; just 
 as the over twelfth and seventeenth make a major chord, thus: 
-He had discovered the true principle, but was, unfortunately, ™ 
-
-talked out of it by the physicist, D'Alembert, who told him Spizzr^EEH 
-that the lower strings did not vibrate sympathetically in their — — £^r~ 
+He had discovered the true principle, but was, unfortunately,
+talked out of it by the physicist, D'Alembert, who told him
+that the lower strings did not vibrate sympathetically in their
 whole length, so as to give their fundamentals, but only in 
 such fractions as corresponded to the tone of the "generator." We know 
 now that these lower strings do vibrate in their whole lengths ; although 
 
 ---
-
-THE NATURE OF HARMONY. 13 
 
 their fundamental tones are much weaker than the partial tones which re- 
 inforce and correspond to the tone which generates them. (See my " Musik- 
@@ -485,41 +406,21 @@ bert, from elaborating his system of harmony on the dual principle. How
 fine was his harmonic sense is shown by two further peculiar- 
 ities of his system: (1) By his conceiving the diminished 
 chord as a dominant seventh chord with the root omitted, 
-^ e. </., B-D-F as the chord with G omitted ; and (2) by his 
-
+e. </., B-D-F as the chord with G omitted ; and (2) by his 
 conceiving the chord in C major as the subdominant chord 
-
-with an added sixth, j£ — ^~fl an(^ no^ as tne **rs* mversi°n °f the 
-supertonic chord with ESzz^zziB a seventh, as might have been expected, 
+with an added sixth, an(^ no^ as tne **rs* mversi°n °f the 
+supertonic chord with a seventh, as might have been expected, 
 and as is commonly done now. No musician will deny that 
 
-
-o 
-
 ---
-
-14 
-
-
-THE NATURE OF HARMONY. 
-
 
 the effect of these two chords corresponds to Rameau's explanation. If the 
 g were added to the diminished seventh chord, or the d withdrawn from the 
 other chord, the sense of the harmony would remain the same. Although, 
 indeed, the chord b-d-f might, in some connections, be conceived as the minor 
 seventh chord below A, with a omitted. In both these proposi- 
-
-tions Rameau divines an idea, to which 1 (S-zzfgzzzn shall return, namely 
-
--' — " as modifications oj 
-
-
-of 
-
-
-that dissonant chords are to be regarded 
-
+tions Rameau divines an idea, to which 1 shall return, namely 
+that dissonant chords are to be regarded as modifications of
 consonant chords, never as fundamental forms. 
 
 Rameau modified the conception of the thoroughbass system in this : that 
@@ -530,88 +431,10 @@ whether major or minor, from below upward. The following illustration
 shows the difference between the thoroughbass system and Rameau's "funda- 
 mental basses": — 
 
-
-Fundamental basses to tl»e above. 
-
-
-m. 
-
-
-=t* 
-
-
-=p 
-
-
-t^\=rz~=z 
-
-
-4*: 
-
-
-r-U 
-
-
-;*d- 
-
-
-ttl 
-
-
--fc*d- 
-
-
-m. 
-
-
-m 
-
-
-m^ 
-
-
-=± 
-
-
-— ts 
-
-
-2^1- 
-
-
-t^-J 
-
-
-& 
-
-
-« 
-
-
-a 
-
-
-k 
-
-
-=4 
-
-
-fcH 
-
-
-===tg=| 
-
-
-IS 
-
-
 These roots made it possible to comprehend the relations of successive har- 
 monies, and to discover the laws of harmonic succession. Rameau laid down 
 
 ---
-
-THE NATURE OF HARMONY. 15 
 
 the principle that the fundamental basses ought to progress only by perfect fifths 
 (or fourths), or in thirds (major or minor). If this rule hardly suffices for the 
@@ -651,30 +474,6 @@ the ratios of the series of numbers 1, 2, 3, 4, 5, 6, 7, and so -on, thus : —
 
 ---
 
-16 THE NATURE OF HARMONY. 
-
-
--jr& __, TT±-==^--^ $ ?- 
-
-
-i^^k^m 
-
-
-t=± 
-
-
--l h 1 1 — 
-
-
-±=t=±— ±=Zetc. 
-
-
-6 7 8 9 10 11 12 13 14 15 16 , 
-4 5 
-
-
-1 
-
 The notes marked with a star are somewhat lower than the corresponding notes of our tempered system 
 
 
@@ -710,9 +509,6 @@ there was soon a reaction from this, and the chord of the ninth became the
 
 ---
 
-THE NATURE OF HARMONY. 17 
-
-
 extreme limit of the chords acknowledged as normal ; even this being 
 coupled with certain conditions. 
 
@@ -725,11 +521,9 @@ Zarlino ; he not only bases the major chord on the harmonic, and the minor
 chord on the arithmetical division of the string, but he s"ees in the minor 
 chord not another hind of third ; i. e. not a minor third, as the thoroughbass 
 system does, but only a changed position of the major third. In the major 
-
-chord the major third is above the principal tone ; in the -A- n^ 
-
-minor chord it is below it ; the fifth being here regarded &— 7^:W|^ w] 
-as principal tone, thus : — «T~ * ■*" 
+chord the major third is above the principal tone ; in the
+minor chord it is below it ; the fifth being here regarded
+as principal tone, thus :
 
 But Tartini was a contemporary of Rameau's, and so could not simply 
 occupy Zarlino's standpoint. The question of basing consonance on acoustic 
@@ -758,9 +552,6 @@ t As to the musical conception of the natural seventh as well as of all the over
 to the major chord, see my " Musikalische Logik," (1873, p. 15) and " Musikalischo Syntaxis " (1877, p. 7), 
 
 ---
-
-18 THE NATURE OF HARMONY. 
-
 
 In such matters Art cannot accept the decisions of Science as final or con- 
 clusive. A few decades later than Tartini, Kirnberger and Fasch, in Berlin, 
@@ -800,16 +591,9 @@ inversions ; since the chord c'-e -g', the first inversion (6 chord) e'-g'-c"
 
 ---
 
-THE NATURE OF HARMONY. 
-
-
-19 
-
-
-m 
-
-
-i 
+and the second inversion (J chord), g-c'e' 
+find their common point of union in 
+the resultant tone C, thus: — 
 
 
 Chord* 
@@ -819,17 +603,11 @@ Deep result-
 ant tones. 
 
 
-and the second inversion (J chord), g-c'e' 
-find their common point of union in 
-the resultant tone C, thus: — 
-
 But the typical form of the major 
-
-chord is not ~&~ 
-
-the close po- SJj 
-~& u sition,butthe — 
-open one — ~^~ 
+chord is not
+the close po-
+sition,but the
+open one — 
 
 There is another kind of combination (or resultant) tones which did not 
 receive adequate attention until very lately, namely, the coincident overtones 
@@ -849,27 +627,6 @@ Dorpat) sees in the multiple-tone, or, as he calls it, the " phonic overtone,"
 the natural bond of the minor chord. Thus b'" is the common overtone of the 
 following series of tones : — 
 
-* 
-
-is. 
-
-
-m 
-
-
-:?- 
-
-
-a 
-
-
-*=&. 
-
-
-tfstfc 
-
-
-12 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
 
 (The tones marked with a * are all slightly higher than the corresponding tones of the tempered system.) 
 
@@ -878,8 +635,6 @@ the same fundamental importance as regards the minor chord that the over-
 tone series is as regards the major chord. The tones of this series blend into 
 
 ---
-
-20 THE NATURE OF HARMONY. 
 
 perfect unity in their relation to the highest tone of the series, exactly as the 
 tones of the overtone series do in relation to their fundamental. How our 
@@ -919,8 +674,6 @@ ical and acoustical relations, the polar opposites of each other. The further
 question is, whether the physiology of hearing, and the psychology of musical 
 
 ---
-
-THE NATURE OF HARMONY. 21 
 
 perception find a similar reciprocity of major and minor intelligible, and 
 whether they can recognize this mathematico-physical principle as valid for 
@@ -963,8 +716,6 @@ are set in vibration by sound waves, according to the laws of sympathetic
 
 ---
 
-22 THE NATURE OF HARMONY. 
-
 vibrations, and communicate these to the auditory nerve. The whole appa- 
 ratus is of microscopic dimensions. This hypothesis has not yet been pro- 
 ductive of any positive results as regards the theory of music. Indeed, it is 
@@ -980,12 +731,10 @@ turbance. (See Tyndall, on Sound, or any book on Acoustics, Tr.) Conso-
 nance he defines as consisting in the absence of beats, or in the reduction of 
 them to a minimum. The major chord is more nearly free from beats than 
 any other ; the minor chord has more elements which disturb the consonance 
-from a physiological point of view. Starting with the major -g- 
-
-chord, as shown in the relations of the first six overtones, ^^ — :gi 
-which offers fewest disturbances, there can be established a Ez=z22z 
-regularly diminishing scale of euphony, measured by the •£*• 
-
+from a physiological point of view. Starting with the major
+chord, as shown in the relations of the first six overtones,
+which offers fewest disturbances, there can be established a
+regularly diminishing scale of euphony, measured by the
 standard of beats, down to the harshest dissonances, and the discords most 
 unavailable for musical purposes. So that, on his principles, neither major 
 and minor consonances nor consonances and dissonances have any other 
@@ -1003,12 +752,7 @@ the minor consonance is not in the least inferior to the major consonance in
 euphony, when we consider it as resulting from the undertone series, just as 
 the major consonance results from the overtone series. The minor chord is 
 
-
-p 
-
 ---
-
-THE NATURE OF HARMONY. 23 
 
 just as free from beats as the major chord given above; and 
 blends just as perfectly into a unity, the central point of which 
@@ -1050,8 +794,6 @@ Logik," and " Musikalische Syntaxis," as well as my " Skuze einer neuen Methode 
 
 ---
 
-24 THE NATURE OF HARMONY. 
-
 discovery that the minor chord ought to be regarded as a major chord upside 
 flown, developed negatively instead of positively, made a great sensation. 
 Of course, when we now find, in studying the history of harmony teaching, 
@@ -1090,8 +832,6 @@ account of minor thirds, fourths, sixths, or any other intervals. To his
 
 ---
 
-THE NATURE OF HARMONY. 25 
-
 mind, they have no independent existence or significance; they are only 
 products, combinations of the fundamental conceptions, octave, fifth, third. 
 It must be confessed that even this was not absolutely new ; mathematicians 
@@ -1113,11 +853,7 @@ of which he could distinguish tones related by fifths from those related by
 thirds. In this notation, two tones of the same name, but differing by the 
 so-called " Didymic," or " syntonic comma," were indicated, the one by a 
 capital and the other by a lower-case letter. As above mentioned, Didymus 
-
 had a tetrachord, j6 \q *6 ' in which there were two kinds of whole-tones, 
-
-T~S 9" "8" 
-
 one having the ratio 10 : 9, and the other 9 : 8. The difference of the two 
 ratios (-1/ : |) is the " Didymic comma," 80 : 81. 
 
@@ -1134,57 +870,11 @@ his notation capital letters indicate a series of fifths ; intervals represented
 
 ---
 
-26 THE NATURE OF HARMONY. 
-
 by large and small letters alternately are thirds ; those represented by small 
 letters form a series of fifths with one another, thus: — 
 
-
-a 
-
-e 
-
-b 
-
-*l 
-
-4* 
-
-gr 
-
-$ 
-
-F 
-
-C 
-
-G 
-
-D 
-
-A 
-
-E 
-
-B 
-
-dfr 
-
-afe 
-
-efe 
-
-bfe 
-
-f 
-
-c 
-
-£• 
-
 Hauptmann represents the key as made up of the three chords, Tonic, 
 Dominant, and Subdominant, thus : — 
-
 
 F a C e G b D 
 
@@ -1218,14 +908,6 @@ THE NATURE OF HARMONY. 27
 distinguish underthirds and overthirds ; thirds related in the first from those 
 related in the second degree, and so on, thus : — 
 
-cj gjf d#etc. 
-. . f c g d a e^ b f# cfl gj d# . . 
-
-. . d|z at efe bM c g (1 a e 1) fj( cfl gjf d# . . 
-
-. . djz aJ2 efe bi? f c g d a e b . . 
-
-. . bbfe fjz etc. 
 Instead of using large and small letters, the mark — is invariably used to 
 indicate the comma (80 : 81). Thus e is a comma lower than e ; jjg is a 
 comma higher than afe ; cj} is two commas lower than c#, etc. 
@@ -1252,9 +934,6 @@ build quite as well as we can on acoustic phenomena. When we have once
 acknowledged this, it seems of very little account whether the minor chord 
 
 ---
-
-28 THE NATURE OF HARMONY. 
-
 
 can be based on acoustic facts or not. The psychological fact that we con- 
 ceive single tones in the sense of chords remains. We can imagine any 
@@ -1295,9 +974,6 @@ sary first to make clear that physics and physiology could never suffice as a
 
 ---
 
-TllhJ NA Tl h'/'J OF 11 A RMONY. 2\) 
-
-
 foundation for musical conceptions, before psychology could take its rightful 
 place. We know now that there are no absolute consonances ; that a conf- 
 bination of tones acoustically and physiologically free from disturbing 
@@ -1335,11 +1011,8 @@ te the tonic chord. That is, the tonic is the only chord which can be used for
 the final point of repose; the only,one which does not distinctly require a 
 further progression. In c major, it is the chord c-e-g ; in g major, g-b-d ; 
 in a minor, a-c-e, etc. In c major, the chord of g is not a perfect conso- 
-i 
 
 ---
-
-30 THE NATURE OF HARMONY. 
 
 nance ; as is proved by this fact alone, viz., that the seventh, f, can be added 
 to it without any essential change in its harmonic significance, or even of its 
@@ -1380,9 +1053,6 @@ chord in a key is related to the accessory chords (chords of the fifths, thirds,
 
 ---
 
-THK NATURE OF JIA UMONY. 31 
-
-
 etc.), so the principal key of a piece is related to the accessory keys which 
 occur in it (the key of the fifth above and below, the third above and below, 
 etc.). In a piece in c major, the key of g major plays much the same part 
@@ -1421,8 +1091,6 @@ theorists did not long ago arrive at the conclusion that dissonant chords are
 yicver intelligible in and of themselves, but must always be understood in thf- 
 
 ---
-
-32 THE NATURE OF HARMONY. 
 
 sense of a consonance. This is true whether the dissonance consists in adding 
 a dissonant tone to a consonant chord, as in chords of the seventh, sixth and 
