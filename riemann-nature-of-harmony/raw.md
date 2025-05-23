@@ -33,7 +33,7 @@ partment of _physics_; _i. e._, the science of _acoustics_. Then, pursuing tones
 further, and inquiring into the effects they produce on the human ear, and
 the mode in which those effects are produced, it becomes a special depart-
 
-* A lecture, given at the Hamburg Conservatory of Music, February 4th, 1882. 
+\* A lecture, given at the Hamburg Conservatory of Music, February 4th, 1882. 
 
 ---
 
@@ -172,58 +172,58 @@ g″, g′, c′, g, e♭, c; that is, tones all of which belong to the minor ch
 below g (= c minor). Let us write both out, thus:
 
 In other words: according to Zarlino, _the minor chord is mathematically the_ 
-_exact opposite of the major chord_. In fact, he uses the terms “Divisione 
-harmonica” and “Divisione aritmetica” as meaning major and minor chord 
-respectively. Whether Zarlino made this happy discovery himself, does not 
+_exact opposite of the major chord_. In fact, he uses the terms “Divisione
+harmonica” and “Divisione aritmetica” as meaning major and minor chord
+respectively. Whether Zarlino made this happy discovery himself, does not
 appear; but I know of no older theorist who has mentioned it. Unfortu-
-nately, this splendid idea of Zarlino's came to naught; whether it remained 
-unnoticed or whether it was not understood, no matter; it disappeared for 
-full two hundred years, and was then re-discovered by Tartini. 
+nately, this splendid idea of Zarlino's came to naught; whether it remained
+unnoticed or whether it was not understood, no matter; it disappeared for
+full two hundred years, and was then re-discovered by Tartini.
 
-In all probability, the _thoroughbass_ method, then just coming into vogue 
-in text-books (although it had been growing into use in the practice of 
-musicians for a long time before), was mainly responsible for the stifling of 
-this germ of a rational system of harmony. There was, at that time, no 
+In all probability, the _thoroughbass_ method, then just coming into vogue
+in text-books (although it had been growing into use in the practice of
+musicians for a long time before), was mainly responsible for the stifling of
+this germ of a rational system of harmony. There was, at that time, no
 
 ---
 
-comprehensive nomenclature for even the simplest and most commonly used 
-chords. If the system which was to grow up had only been developed on 
-the lines laid down by Zarlino, i. e., if his principle of duality had been 
-recognized, according to which the minor chord is the reciprocal, the counterpart 
-and opposite of the major chord ; then theory would have taken the direction 
-in which the latest efforts of theorists are now being put forth; that of a 
-consistent dualism, major being conceived of as formed above the fundamental 
-tone, and minor beloiv it.* Instead of this, the thoroughbass method took the 
-lowest voice-part as its invariable starting point, and interpreted all chords 
+comprehensive nomenclature for even the simplest and most commonly used
+chords. If the system which was to grow up had only been developed on
+the lines laid down by Zarlino, _i. e._, if his principle of _duality_ had been
+recognized, according to which the minor chord is the _reciprocal_, the _counterpart_
+and opposite of the major chord; then theory would have taken the direction
+in which the latest efforts of theorists are now being put forth; that of a
+consistent _dualism_, major being conceived of as formed above the fundamental
+tone, and minor _below_ it.* Instead of this, the thoroughbass method took the
+lowest voice-part as its invariable starting point, and interpreted all chords
 from below upward. 
 
-The Italian organists, who had to accompany choruses in rehearsals and 
-in public performances, used the figured bass as a convenient abbreviation, 
-probably as early as the middle of the 16th century. No scores, such as we 
-have iioav, were possible then, on account of the peculiar character of the 
-notation. There were no bars to indicate the measures, and each voice con- 
-taining notes differing in length from those of the others, had to be separate ; 
-so that playing from score was impossible. There were no scores, either 
-written or printed ; consequently, a conductor or organist who needed to watch 
-all the voice-parts at once, had to help himself as best he could. The Italians 
-did it by placing the voice-parts one above another, somewhat after the man- 
-ner of a score, and then noting over the lowest voice, by means of figures, what 
-intervals the other voices represented, counting from the bass. The Germans 
-used another method, which they called the "Organ-tablature." 
+The Italian organists, who had to accompany choruses in rehearsals and
+in public performances, used the figured bass as a convenient abbreviation,
+probably as early as the middle of the 16th century. No scores, such as we
+have now, were possible then, on account of the peculiar character of the
+notation. There were no bars to indicate the measures, and each voice con-
+taining notes differing in length from those of the others, had to be separate;
+so that playing from score was impossible. There were no scores, either
+written or printed; consequently, a conductor or organist who needed to watch
+all the voice-parts at once, had to help himself as best he could. The Italians
+did it by placing the voice-parts one above another, somewhat after the man-
+ner of a score, and then noting over the lowest voice, by means of figures, what
+intervals the other voices represented, counting from the bass. The Germans
+used another method, which they called the “Organ-tablature.”
 
-In order to comprehend the importance of thoroughbass in the practice 
-and teaching of musical composition at that time, we nflftst remind ourselves 
-that all through that period a chord was looked on as a mere accidental 
-combination of fragments of different voice-parts forming a consonant 
-interval. As late as 1547, Glarean was of the opinion that a "discant" was 
+In order to comprehend the importance of thoroughbass in the practice
+and teaching of musical composition at that time, we nflftst remind ourselves
+that all through that period a chord was looked on as a mere accidental
+combination of fragments of different voice-parts forming a consonant
+interval. As late as 1547, Glarean was of the opinion that a “discant” was
 a doubling of several voice-parts moving in different keys, so that, for 
-example, in the same piece the bass might be in an " authentic " mode, and 
+example, in the same piece the bass might be in an “authentic” mode, and 
 
-* In my "Studien zur Gcschichte der Notenschrift " (Chap. Ill, "The Kevolution from the Conception in 
-a Minor Sense to that in a Majur Sense "), I have shown in detail that the ancients and also the Arabs invari- 
-ably conceived tone relations from above downward, and that, in the middle ages, this conception was gradu- 
-ally changed to the reverse, as it is now. 
+\* In my “Studien zur Geschichte der Notenschrift” (Chap. III, "The Revolution from the Conception in
+a Minor Sense to that in a Majur Sense”), I have shown in detail that the ancients and also the Arabs invari-
+ably conceived tone relations from above downward, and that, in the middle ages, this conception was gradu-
+ally changed to the reverse, as it is now.
 
 ---
 
