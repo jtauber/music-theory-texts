@@ -413,22 +413,22 @@ and as is commonly done now. No musician will deny that
 
 ---
 
-the effect of these two chords corresponds to Rameau's explanation. If the 
-g were added to the diminished seventh chord, or the d withdrawn from the 
-other chord, the sense of the harmony would remain the same. Although, 
-indeed, the chord b-d-f might, in some connections, be conceived as the minor 
-seventh chord below A, with a omitted. In both these proposi- 
-tions Rameau divines an idea, to which 1 shall return, namely 
+the effect of these two chords corresponds to Rameau’s explanation. If the
+g were added to the diminished seventh chord, or the d withdrawn from the
+other chord, the sense of the harmony would remain the same. Although,
+indeed, the chord b-d-f might, in some connections, be conceived as the minor
+seventh chord _below_ A, with a omitted. In both these proposi-
+tions Rameau divines an idea, to which I shall return, namely
 that dissonant chords are to be regarded as modifications of
-consonant chords, never as fundamental forms. 
+consonant chords, never as fundamental forms.
 
-Rameau modified the conception of the thoroughbass system in this : that 
-all inverted chords are to be understood not in the sense of the bass-tone, but 
-as having another tone as root. These roots of inverted chords he called the 
-"fundamental basses." But he retained the practice of reading all chords, 
-whether major or minor, from below upward. The following illustration 
-shows the difference between the thoroughbass system and Rameau's "funda- 
-mental basses": — 
+Rameau modified the conception of the thoroughbass system in this: that
+all _inverted_ chords are to be understood not in the sense of the _bass-tone_, but
+as having another tone as root. These roots of inverted chords he called the
+“fundamental basses.” But he retained the practice of reading all chords,
+whether major or minor, _from below upward_. The following illustration
+shows the difference between the thoroughbass system and Rameau’s “funda-
+mental basses”:—
 
 These roots made it possible to comprehend the relations of successive har- 
 monies, and to discover the laws of harmonic succession. Rameau laid down 
