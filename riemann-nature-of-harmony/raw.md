@@ -260,40 +260,40 @@ with it.—Translator.
 
 ---
 
-Thus, since the inversions of the intervals 
-of the upper voices are of no consequence so 
-far as the figured bass is concerned, there is 
-no possible way of indicating what interval 
-any given voice makes with the bass. It can- 
-not be denied that the thoroughbass system is 
-an imperfect means of representing harmonies 
-theoretically ; but it was the first that was found, and was, for that reason 
-extremely useful. 
+Thus, since the inversions of the intervals
+of the upper voices are of no consequence so
+far as the figured bass is concerned, there is
+no possible way of indicating what interval
+any given voice makes with the bass. It can-
+not be denied that the thoroughbass system is
+an imperfect means of representing harmonies
+theoretically ; but it was the first that was found, and was, for that reason
+extremely useful.
 
-It was not long before a great many abbreviations came into practical use, 
-which made it much easier to think harmony. It was soon noticed that the 
-chord formed out of a third and a fifth occurred much more frequently than 
-any others. It then became customary to consider this chord as demanded, 
-unless some other figures were written. This chord thus acquired special 
-importance. Only when the third or fifth had to be altered by means of a 
-sharp, flat or natural, was any figure required. 
+It was not long before a great many abbreviations came into practical use,
+which made it much easier to think harmony. It was soon noticed that the
+chord formed out of a third and a fifth occurred much more frequently than
+any others. It then became customary to consider this chord as demanded,
+unless some other figures were written. This chord thus acquired special
+importance. Only when the third or fifth had to be altered by means of a
+sharp, flat or natural, was any figure required.
 
 But no distinction was made between a major, minor or diminished 
-chord : — 
+chord:—
 
-Thus, the figured-bass system became the means of directing the develop- 
-ment of the theory and practice of harmony into quite other channels than 
-those marked out by Zarlino, the most learned and distinguished theorist of 
-his time. The diametrically opposite character of the major and minor 
-chord was totally forgotten. Then, too, Zarlino's treatment of chords makes 
-it perfectly clear that all combinations of the tones c, e and g are, for har- 
-monic purposes, the same chord ; and the same is true of all positions and 
-inversions of every major or minor chord. But it was impossible to attain 
-this idea from the standpoint of thoroughbass; indeed, this idea of Zarlino's" 
-was pushed more and more into the background, for the thoroughbass system 
-conceived polyphony as a web of melodies rather than a succession of chords. 
-From the standpoint of thoroughbass, a minor chord is no different from a 
-major chord, but an inversion of a major chord is a totally different thing from 
+Thus, the figured-bass system became the means of directing the develop-
+ment of the theory and practice of harmony into quite other channels than
+those marked out by Zarlino, the most learned and distinguished theorist of
+his time. The diametrically opposite character of the major and minor
+chord was totally forgotten. Then, too, Zarlino’s treatment of chords makes
+it perfectly clear that all combinations of the tones c, e and g are, for har-
+monic purposes, the same chord; and the same is true of all positions and
+inversions of every major or minor chord. But it was impossible to attain
+this idea from the standpoint of thoroughbass; indeed, this idea of Zarlino’s
+was pushed more and more into the background, for the thoroughbass system
+conceived polyphony as a web of melodies rather than a succession of chords.
+From the standpoint of thoroughbass, _a minor chord is no different from a_ 
+_major chord, but an inversion of a major chord is a totally different thing from_ 
 
 ---
 
