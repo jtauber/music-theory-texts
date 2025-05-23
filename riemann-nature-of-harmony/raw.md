@@ -217,8 +217,8 @@ and teaching of musical composition at that time, we nflftst remind ourselves
 that all through that period a chord was looked on as a mere accidental
 combination of fragments of different voice-parts forming a consonant
 interval. As late as 1547, Glarean was of the opinion that a “discant” was
-a doubling of several voice-parts moving in different keys, so that, for 
-example, in the same piece the bass might be in an “authentic” mode, and 
+a doubling of several voice-parts moving in different keys, so that, for
+example, in the same piece the bass might be in an “authentic” mode, and
 
 \* In my “Studien zur Geschichte der Notenschrift” (Chap. III, "The Revolution from the Conception in
 a Minor Sense to that in a Majur Sense”), I have shown in detail that the ancients and also the Arabs invari-
@@ -227,36 +227,36 @@ ally changed to the reverse, as it is now.
 
 ---
 
-the " discant " iu a " plagal " mode.* The idea of naming such an acci- 
-dental combination of tones had not occurred to anybody at that time; it 
-was foreign to the whole spirit of the time. No one of the combined melo- 
-dies was looked on as predominant, nor was a bass considered as a foundation 
-or support for the others; but all were regarded as equally important indi- 
-vidual melodies, and were invariably thus treated. The first half of the 16th 
-century is, in fact, the period in which the imitative contrapuntal style 
-culminated ; the second half of the century brings us to the advances made 
-by Palesti ina and Orlandus Lassus, and its end to the beginnings of mono- 
-phony. It is impossible to avoid the idea that the new conception of the 
-chord, which came just at this time, and the new way of looking at poly- 
-phonic music which resulted from it, must have had a marked effect on 
+the “discant” in a “plagal” mode.* The idea of _naming_ such an acci-
+dental combination of tones had not occurred to anybody at that time; it
+was foreign to the whole spirit of the time. No one of the combined melo-
+dies was looked on as predominant, nor was a bass considered as a foundation
+or support for the others; but all were regarded as equally important indi-
+vidual melodies, and were invariably thus treated. The first half of the 16th
+century is, in fact, the period in which the imitative contrapuntal style
+culminated; the second half of the century brings us to the advances made
+by Palestrina and Orlandus Lassus, and its end to the beginnings of mono-
+phony. It is impossible to avoid the idea that the new conception of the
+_chord_, which came just at this time, and the new way of looking at poly-
+phonic music which resulted from it, must have had a marked effect on
 musical production. 
 
-The thoroughbass system was, as I have just shown, the first attempt at 
-indicating chords, and its adoption marked a long step forward, both in the 
-progress of theoretical knowledge and of the practical art of writing. The 
-essential character of thoroughbass is generally well known. It indicates 
-each tone by the number which shows its distance above the bass note, in 
-diatonic degrees. But intervals above an octave are reduced to the lower 
-octave, thus identifying notes an octave apart; with this restriction, however, 
-that their relation to the bass note must remain unchanged. As the intervals 
-are always counted from the bass note, there is no possible way of expressing 
-the fact that the fifth c-g and the fourth g-c are not exactly the same 
-interval. Thus, for example, the following chords are indicated in exactly 
-the same way in the thoroughbass system : — 
+The thoroughbass system was, as I have just shown, the first attempt at
+indicating chords, and its adoption marked a long step forward, both in the
+progress of theoretical knowledge and of the practical art of writing. The
+essential character of thoroughbass is generally well known. It indicates
+each tone by the number which shows its distance above the bass note, in
+diatonic degrees. But intervals above an octave are reduced to the lower
+octave, thus identifying notes an octave apart; with this restriction, however,
+that their relation to the bass note must remain unchanged. As the intervals
+are always counted from the bass note, there is no possible way of expressing
+the fact that the fifth c-g and the fourth g-c are not exactly the same
+interval. Thus, for example, the following chords are indicated in exactly
+the same way in the thoroughbass system:—
 
 
-* A "discant" was simply a second melody invented to go with a given bass and heard simultaneously 
-with it.— Transt.ator. 
+\* A “discant” was simply a second melody invented to go with a given bass and heard simultaneously 
+with it.—Translator.
 
 ---
 
