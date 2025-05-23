@@ -37,47 +37,44 @@ the mode in which those effects are produced, it becomes a special depart-
 
 ---
 
-ment of physiology. Finally, concerning itself with tone-perceptions, with 
-the mental effects of these acoustic and physiological phenomena, and with 
-the mental connections and relations of the sensations produced by sound, it 
-enters the domain of psychology. Out of the results of scientific investigation 
-in all the three fields of physics, physiology and psychology, we get the 
-elements of an exact theory of the nature of harmony. It is the special 
-function of this theory to provide, for the practical instruction in the art of 
-composition, ways and means of grouping special details under general laws ; 
-of establishing comprehensive points of view and general rules; in short, its 
-province is to systematize facts according to their true nature and laws, and, 
-avoiding all arbitrary ways of looking at the facts, to provide a true system 
-as a basis for the practical work of the student and composer. 
+ment of _physiology_. Finally, concerning itself with tone-perceptions, with
+the _mental effects_ of these acoustic and physiological phenomena, and with
+the mental connections and relations of the sensations produced by sound, it
+enters the domain of _psychology_. Out of the results of scientific investigation
+in all the three fields of physics, physiology and psychology, we get the
+elements of an exact theory of the nature of harmony. It is the special
+function of this theory to provide, for the practical instruction in the art of
+composition, ways and means of grouping special details under general laws;
+of establishing comprehensive points of view and general rules; in short, its
+province is to systematize facts according to their true nature and laws, and,
+avoiding all arbitrary ways of looking at the facts, to provide a true system
+as a basis for the practical work of the student and composer.
 
-At first, the contributions to such a theory based on scientific investiga- 
-tion were few and far between ; it is only of late that the impulse given to 
-scientific study in general has helped us forward considerably. The interest 
-of practical musicians in the new science is still confined to the few, and has 
-not yet become intense ; but this is hardly to be wondered at when we con- 
-sider that it is only within the past twenty years that our scientific knowledge 
-has become sufficient to make it possible to classify discovered facts into a 
-well-rounded system, available for practical use. The more the new way of 
-looking at harmonic relations is seen to be positively useful and practical, 
-the more will interest in laying scientific foundations for the art of music 
-become widespread and lively. In the following pages I shall briefly show 
-what benefit the practical teaching of music has already derived from exact 
-science, and how much it may still hope to draw from such study in wholly 
-new directions. 
+At first, the contributions to such a theory based on scientific investiga-
+tion were few and far between; it is only of late that the impulse given to
+scientific study in general has helped us forward considerably. The interest
+of practical musicians in the new science is still confined to the few, and has
+not yet become intense; but this is hardly to be wondered at when we con-
+sider that it is only within the past twenty years that our scientific knowledge
+has become sufficient to make it possible to classify discovered facts into a
+well-rounded system, available for practical use. The more the new way of
+looking at harmonic relations is seen to be positively useful and practical,
+the more will interest in laying scientific foundations for the art of music
+become widespread and lively. In the following pages I shall briefly show
+what benefit the practical teaching of music has already derived from exact
+science, and how much it may still hope to draw from such study in wholly
+new directions.
 
 The oldest portion of our exact scientific knowledge in connection with 
 harmony is that investigation into the nature of sounding bodies which 
-produced the mathematical definitions of the consonant intervals. These defi- 
-nitions are ascribed to Pythagoras ; but are, without doubt, much older than 
+produced _the mathematical definitions of the consonant intervals_. These defi- 
+nitions are ascribed to Pythagoras; but are, without doubt, much older than 
 he. The well-known legend about the blacksmith's hammers of different 
 weights, which led Pythagoras to the discovery of the relative numerical 
 proportions of the intervals, is physically false as to its central fact. Py- 
 thagoras very likely got his facts about intervals, as determined by measur- 
 
 ---
-
-THE NATURE OF HARMON Y. 
-
 
 ing the different lengths of string which produce them, from the Egyptian 
 priests, with the rest of his philosophy of numbers ; at least the elements 
