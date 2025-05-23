@@ -297,43 +297,42 @@ _major chord, but an inversion of a major chord is a totally different thing fro
 
 ---
 
-the same chord in its fundamental jwsUlon. The ideas of Zarlino as to the 
-essential difference between major and minor chords, and the essential unity 
-of any given chord, no matter what its inversion or distribution, were 
-strangled in their birth. The one positive g«ain was the possibility of indi- 
-cating all combinations of tones by abbreviations; as, the chord of the sixth 
-by G ; the chord of the sixth and fourth by f ; the chord of the seventh by 7; 
-the chord of the sixth and fifth by f, etc. That the chord of the sixth is an 
-inversion of the common chord, and that of the sixth and fifth an inversion 
-of the chord of the seventh, was not noticed by anybody till 150 years later. 
-Zarlino's ideas on this matter had, in the meantime, been wholly forgotten. 
+_the same chord in its fundamental position_. The ideas of Zarlino as to the
+essential difference between major and minor chords, and the essential unity
+of any given chord, no matter what its inversion or distribution, were
+strangled in their birth. The one positive gain was the possibility of indi-
+cating all combinations of tones by abbreviations; as, the chord of the sixth
+by 6; the chord of the sixth and fourth by 6/4; the chord of the seventh by 7;
+the chord of the sixth and fifth by 6/5, etc. That the chord of the sixth is an
+inversion of the common chord, and that of the sixth and fifth an inversion
+of the chord of the seventh, was not noticed by anybody till 150 years later.
+Zarlino's ideas on this matter had, in the meantime, been wholly forgotten.
 
-After the thoroughbass system got into print, as it did, in the works of 
-some Italian composers, toward the year 1600, it spread like wild-fire all 
-over Europe, and soon supplanted the German tablature to a great extent, 
-because the tablature offered no means of naming chords. Reforms and im- 
-provements in theory, too, were forced into the background by the rapid rise 
-of the opera, oratorio and instrumental music, and for more than a century 
-thoroughbass had full sway, wherever there was an organ or harpsichord 
-part to be played, whether in church, theatre or concert-hall. The organist 
-or harpsichordist, and for that matter, the player of the theorbo and viol da 
-gamba, had no other written part than a figured bass, from which he was 
-expected to develop a correct polyphonic web of melodies, furnished with 
-melodic ornaments. Thus it will be seen that thoroughbass playing was, till 
-past the middle of the last century, a very important art. 
+After the thoroughbass system got into print, as it did, in the works of
+some Italian composers, toward the year 1600, it spread like wild-fire all
+over Europe, and soon supplanted the German tablature to a great extent,
+because the tablature offered no means of naming chords. Reforms and im-
+provements in theory, too, were forced into the background by the rapid rise
+of the opera, oratorio and instrumental music, and for more than a century
+thoroughbass had full sway, wherever there was an organ or harpsichord
+part to be played, whether in church, theatre or concert-hall. The organist
+or harpsichordist, and for that matter, the player of the theorbo and viol da
+gamba, had no other written part than a figured bass, from which he was
+expected to develop a correct polyphonic web of melodies, furnished with
+melodic ornaments. Thus it will be seen that thoroughbass playing was, till
+past the middle of the last century, a very important art.
 
-There was no further powerful impulse to a more rational development of 
-theory until 1722, when it camex from Jean Philippe Bameau* a man who 
-also occupies a prominent place in the history of French opera. Rameau is 
-to be considered as the man who discovered overtones. He observed that a 
-sounding string produced not only its fundamental tone, but the twelfth and 
-seventeenth above it, the fifth above the octave and the major third above 
-the double octave. In other words, he noticed that tones which had been 
-supposed to be simple were really complex, made up of several tones ; and, 
+There was no further powerful impulse to a more rational development of
+theory until 1722, when it came from _Jean Philippe Rameau_,* a man who
+also occupies a prominent place in the history of French opera. Rameau is
+to be considered as the man who discovered _overtones_. He observed that a
+sounding string produced not only its fundamental tone, but the twelfth and
+seventeenth above it, the fifth above the octave and the major third above
+the double octave. In other words, he noticed that tones which had been
+supposed to be simple were really _complex_, made up of several tones; and,
 
-
-* " Traits d'harmonic reduite si ses principes naturels." Rameac wrote a series of works following out 
-the ideas of this l>ook. The series was completed in 1700. 
+\* “Traité d’harmonie reduite à ses principes naturels.” Rameau wrote a series of works following out 
+the ideas of this book. The series was completed in 1760. 
 
 ---
 
