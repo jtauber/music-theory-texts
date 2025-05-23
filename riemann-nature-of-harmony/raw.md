@@ -105,7 +105,7 @@ ninth century. The fifth and fourth, too, intervals whose relations are only
 less simple than those of the octave, play a correspondingly important part
 in practice. The key-note, fourth, fifth and octave, are the fundamental
 tones of the ancient no less than the modern scales. In the ancient system
-they were the only unchangeable tones ; the second, third, sixth and seventh
+they were the only unchangeable tones; the second, third, sixth and seventh
 varied with the chromatic and enharmonic modes. I do not need to empha-
 size the importance of the fifth in our modern doctrine of keys and chords;
 especially in our view of the keys, everything turned on it, up to Moritz
@@ -116,43 +116,43 @@ They did not use our consonant third, related as 4:5; the tone of their
 
 ---
 
-scale which corresponds to our third they defined theoretically as the lower 
-octave of the fifth four times removed (c-g-d-a-e) ; and they considered it a 
-dissonance because of its complicated mathematical relations (64 : 81). To 
-the Arabs belongs the merit of having enriched the exact theory of music by 
-the conception of the consonant third (see my " Studies in the History of 
-Musical Notation/' pp. 77-85). The so-called "Measure-theory of the 
-Arabic-Persian theorists, which demonstrates the theory of intervals from a 
-string divided into twelve equal parts, not only counts the major third (4 : 5) 
-and the minor third (5 : 6) among the consonances, but also the major 
-sixth (3 : 5) and the minor sixth (5 : 8). It looks very much as if their 
-music was no more exclusively monophonic (i. e. in unison), than that of the 
-Greeks ; and as if they must have known the importance of the consonant 
-chords. The oldest statements of this theory known to us (though they 
-probably came down from a much older date), belong to the end of the 
-thirteenth and the beginning of the fourteenth centuries ; i. e., to a time 
-when our Western music had no theoretical conception of the consonant 
-third ; although it had considerably developed the polyphonic style (discard, 
-Fauxbourdori). 
+scale which corresponds to our third they defined theoretically as the lower
+octave of the fifth four times removed (c-g-d-a-e); and they considered it a
+dissonance because of its complicated mathematical relations (64:81). To
+the Arabs belongs the merit of having enriched the exact theory of music by
+the conception of the consonant third (see my “Studies in the History of
+Musical Notation,” pp. 77–85). The so-called “Measure-theory of the
+Arabic-Persian theorists, which demonstrates the theory of intervals from a
+string divided into twelve equal parts, not only counts the major third (4:5)
+and the minor third (5:6) among the consonances, but also the major
+sixth (3:5) and the minor sixth (5:8). It looks very much as if their
+music was no more exclusively monophonic (_i. e._ in unison), than that of the
+Greeks; and as if they must have known the importance of the consonant
+chords. The oldest statements of this theory known to us (though they
+probably came down from a much older date), belong to the end of the
+thirteenth and the beginning of the fourteenth centuries; _i. e._, to a time
+when our Western music had no theoretical conception of the consonant
+third; although it had considerably developed the polyphonic style (_discant_,
+_Fauxbourdon_). 
 
-The man who first introduced the consonant third into our occidental music 
-was Ludovico Fogliani (Musica theorica, 1529). He seems not to have been 
-aware that this was anything new ; nor was Gioseffo Zarlino, who did the 
-same thing in 1558, in his " Instituzioni harmoniche." They both based 
-their theories on those of the Greek theorists, Didymus and Ptolemy, who, 
-among other divisions of the fourth (tetra-chord), used the third (4 : 5) 
-consisting of a major tone (8 : 9) and a minor tone (9 : 10). But although 
-the Greeks did happen on this third, they never regarded or treated it as a 
-consonance; and neither Zarlino nor Fogliani had any occasion to disclaim 
-the originality of their idea. 
+The man who first introduced the consonant third into our occidental music
+was _Ludovico Fogliani_ (Musica theorica, 1529). He seems not to have been
+aware that this was anything new; nor was _Gioseffo Zarlino_, who did the
+same thing in 1558, in his “Instituzioni harmoniche.” They both based
+their theories on those of the Greek theorists, Didymus and Ptolemy, who,
+among other divisions of the fourth (tetra-chord), used the third (4:5)
+consisting of a major tone (8:9) and a minor tone (9:10). But although
+the Greeks did happen on this third, they never regarded or treated it as a
+_consonance_; _and neither_ Zarlino nor Fogliani had any occasion to disclaim
+the originality of their idea.
 
-But Zarlino went further. He gave to the world the conception of the 
-consonant chord, in its double form of major and minor chord. 
+But Zarlino went further. He gave to the world the conception of _the_ 
+_consonant chord, in its double form of major and minor chord_.
 
-In practice musicians had long ago discovered empirically the consonant 
-harmonies which lie at the foundation of polyphony ; but both theory and 
-practical instruction were totally wanting in the conceptions necessary to 
-define these formations. Zarlino, in his " Instituzioni" (I. 30 and III, -31), 
+In practice musicians had long ago discovered empirically the consonant
+harmonies which lie at the foundation of polyphony; but both theory and
+practical instruction were totally wanting in the conceptions necessary to
+define these formations. Zarlino, in his “Instituzioni” (I. 30 and III, 31),
 
 ---
 
