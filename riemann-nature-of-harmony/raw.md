@@ -332,45 +332,45 @@ the double octave. In other words, he noticed that tones which had been
 supposed to be simple were really _complex_, made up of several tones; and,
 
 \* “Traité d’harmonie reduite à ses principes naturels.” Rameau wrote a series of works following out 
-the ideas of this book. The series was completed in 1760. 
+the ideas of this book. The series was completed in 1760.
 
 ---
 
-further, that these tones are those which form the major chord. For example, 
-suppose a string produces the tone c, and also its twelfth, g, and seventeenth, 
-e' ; we have, then, the major chord of c, thus : For a musi- 
-cian of Kameau's ability, this discovery was something more 
-than a curiosity, it was a revelation. It is true the phe- 
-nomenon of overtones was not wholly unknown — before Hameau. 
-Mersenne (1636) had called attention to them, and Sauveur 
-(1701) had explained them scientifically, and had emphasized their signifi- 
-cance in relation to the understanding of the principles of harmony. But 
-they never became widely known, nor came to any practical importance, as 
-related to the art of music, until Kameau founded his theory of fundamental 
-basses on this phenomenon. 
+further, that these tones are those which form the major chord. For example,
+suppose a string produces the tone c, and also its twelfth, g, and seventeenth,
+e′; we have, then, the major chord of c, thus: For a musi-
+cian of Rameau’s ability, this discovery was something more
+than a curiosity, it was a revelation. It is true the phe-
+nomenon of overtones was not wholly unknown before Rameau.
+Mersenne (1636) had called attention to them, and Sauveur
+(1701) had explained them scientifically, and had emphasized their signifi-
+cance in relation to the understanding of the principles of harmony. But
+they never became widely known, nor came to any practical importance, as
+related to the art of music, until Rameau founded his theory of _fundamental_ 
+_basses_ on this phenomenon.
 
-Rameau was too good a musician not to know that to deduce the major 
-consonant chord only from an acoustic phenomenon was not sufficient to 
-build up a scientific system of harmony. But his attempts to discover a 
-corresponding phenomenon which should account for the minor consonant 
-chord, were all in vain. Whether he started out with Zarlino's mathematical 
-explanation of the opposite principles of major and minor we do not know. 
-But he did try to find a series of undertones corresponding to the overtones, 
-to account for the minor chord. He discovered that those strings of which 
-a given tone is an overtone (i. e., according to Rameau, the under twelfth and 
-seventeenth), will vibrate strongly whenever that string is struck, while 
-others remain silent. He could not distinguish these tones in the mass, but 
-he assumed that they must be there, since the strings were in vibration. So 
-he thought he had discovered in the phenomenon of sympathetic vibrations 
-the principle of the minor chord; for the under twelfth and seventeenth of^a 
-note make, with the original note (Rameau's "generator"), a minor chord ; just 
-as the over twelfth and seventeenth make a major chord, thus: 
-He had discovered the true principle, but was, unfortunately,
-talked out of it by the physicist, D'Alembert, who told him
+Rameau was too good a musician not to know that to deduce the _major_
+consonant chord only from an acoustic phenomenon was not sufficient to
+build up a scientific system of harmony. But his attempts to discover a
+corresponding phenomenon which should account for the _minor_ consonant
+chord, were all in vain. Whether he started out with Zarlino's _mathematical_
+explanation of the opposite principles of major and minor we do not know.
+But he did try to find a series of _undertones_ corresponding to the _overtones_,
+to account for the minor chord. He discovered that those strings _of which_ 
+_a given tone is an overtone_ (_i. e._, according to Rameau, the _under_ twelfth and
+seventeenth), will vibrate strongly whenever that string is struck, while
+others remain silent. He could not distinguish these tones in the mass, but
+he assumed that they must be there, since the strings were in vibration. So
+he thought he had discovered in the phenomenon of _sympathetic vibrations_
+the principle of the _minor chord_; for the _under_ twelfth and seventeenth of a
+note make, with the original note (Rameau’s “generator”), a _minor_ chord; just
+as the _over_ twelfth and seventeenth make a _major_ chord, thus:
+He _had_ discovered the true principle, but was, unfortunately,
+talked out of it by the physicist, D’Alembert, who told him
 that the lower strings did not vibrate sympathetically in their
-whole length, so as to give their fundamentals, but only in 
-such fractions as corresponded to the tone of the "generator." We know 
-now that these lower strings do vibrate in their whole lengths ; although 
+whole length, so as to give their fundamentals, but only in
+such fractions as corresponded to the tone of the “generator.” We know
+now that these lower strings do vibrate in their whole lengths; although
 
 ---
 
