@@ -156,31 +156,31 @@ define these formations. Zarlino, in his “Instituzioni” (I. 30 and III, 31),
 
 ---
 
-contrasted two modes of dividing a string, which he called the " harmonical " 
-and the "arithmetical" (Divisione harmonica " and "Divisione aritme- 
-tica"). By the "harmonical" division of the string he meant the deter- 
-mining the pitch of the tones produced by the half, third, fourth, fifth and 
-sixth of the string. By the " arithmetical " division, he meant the deter- 
-mining of the pitch otmultlples of some small fraction of the 
-string, = 1:2:3:4:5:6. If we take small c as a starting 
-point, the scries of tones represented by the lengths, 1 : j : J: 
-J : I : I will correspond to the tones c, c', g', 
-c", e", g"; that is to say, tones all of which belong to the
+contrasted two modes of dividing a string, which he called the “harmonical”
+and the “arithmetical” (Divisione harmonica” and “Divisione aritme-
+tica”). By the “harmonical” division of the string he meant the deter-
+mining the pitch of the tones produced by the half, third, fourth, fifth and
+sixth of the string. By the “arithmetical” division, he meant the deter-
+mining of the pitch of _multiples_ of some small fraction of the
+string, = 1:2:3:4:5:6. If we take small c as a starting
+point, the scries of tones represented by the lengths, 1:1/2:1/3:
+1/4:1/5:1/6 will correspond to the tones c, c′, g′,
+c″, e″, g″; that is to say, tones all of which belong to the
 major chord of c. On the other hand, if we start with the
-tone g", the series 1 : 2 : 3 : 4 : 5 : G will represent the tones 
-g", g', c', g, eb", c ; that is, tones all of which belong to the minor chord 
-below g (= c minor). Let us write both out, thus : 
+tone g", the series 1:2:3:4:5:6 will represent the tones
+g″, g′, c′, g, e♭, c; that is, tones all of which belong to the minor chord
+below g (= c minor). Let us write both out, thus:
 
-In other words : according to Zarlino, the minor chord is mathematically the 
-(exact opposite of the major chord. In feet, lie uses the terms "Divisione 
-harmonica" and "Divisione aritmetica" as meaning major and minor chord 
+In other words: according to Zarlino, _the minor chord is mathematically the_ 
+_exact opposite of the major chord_. In fact, he uses the terms “Divisione 
+harmonica” and “Divisione aritmetica” as meaning major and minor chord 
 respectively. Whether Zarlino made this happy discovery himself, does not 
-appear ; but I know of no older theorist who has mentioned it. Unfortu- 
-nately, this splendid idea of Zarlino's came to naught ; whether it remained 
-unnoticed or whether it was not understood, no matter ; it disappeared for 
+appear; but I know of no older theorist who has mentioned it. Unfortu-
+nately, this splendid idea of Zarlino's came to naught; whether it remained 
+unnoticed or whether it was not understood, no matter; it disappeared for 
 full two hundred years, and was then re-discovered by Tartini. 
 
-In all probability, the thoroughbass method, then just coming into vogue 
+In all probability, the _thoroughbass_ method, then just coming into vogue 
 in text-books (although it had been growing into use in the practice of 
 musicians for a long time before), was mainly responsible for the stifling of 
 this germ of a rational system of harmony. There was, at that time, no 
