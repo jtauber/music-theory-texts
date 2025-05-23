@@ -374,40 +374,40 @@ now that these lower strings do vibrate in their whole lengths; although
 
 ---
 
-their fundamental tones are much weaker than the partial tones which re- 
-inforce and correspond to the tone which generates them. (See my " Musik- 
-alische Syntaxis," 1877.) 
+their fundamental tones are much weaker than the partial tones which re-
+inforce and correspond to the tone which generates them. (See my “Musik- 
+alische Syntaxis,” 1877.)
 
-Thus Rameau had to give up his attempt at a scientific basis for his minor 
-chord, and was forced to build up his system of harmony one-sidedly, on the 
-major principle exclusively. So the minor chord came to be regarded as a 
-modification of the major ; as a chord not given in nature; as a less perfect 
-consonance than the major chord. So that, as it finally turned out, his 
-physical explanation of consonance was less satisfactory than Zarlino's 
-mathematical one. There is only one point in which his system really 
-brought musical intelligence a long step forward : he first made it clear that 
-no inversions, transpositions, or changes of distribution of the tones, which 
-make up a consonant chord, alter its harmonic significance in the least; that 
-the tones c, e, g, for example, make the chord of c and nothing else, however 
-they may be placed. From the standpoint of thoroughbass, this conception 
-was unattainable, however near it may seem. By thus doing what thorough- 
-bass could never have done, by identifying chords which are made up of the 
-same tones, no matter which of them happens to be in the bass, he invented 
-the theory of inversions of chords. That was certainly an extraordinary flash 
-of genius, for it simplified the whole apparatus of harmony at a single stroke. 
-From thenceforth, the common chord, the 6 chord and the % chord became 
-simply different forms of the same chord, and the 7, §, 4 and 4, were similarly 
-identified. This may have been divined before, but it had never been 
-expressed. 
+Thus Rameau had to give up his attempt at a scientific basis for his minor
+chord, and was forced to build up his system of harmony one-sidedly, on the
+major principle exclusively. So the minor chord came to be regarded as a
+modification of the major; as a chord not given in nature; as a less perfect
+consonance than the major chord. So that, as it finally turned out, his
+physical explanation of consonance was less satisfactory than Zarlino’s
+mathematical one. There is only one point in which his system really
+brought musical intelligence a long step forward: he first made it clear that
+no inversions, transpositions, or changes of distribution of the tones, which
+make up a consonant chord, alter its harmonic significance in the least; that
+the tones c, e, g, for example, make the chord of c _and nothing else_, however
+they may be placed. From the standpoint of thoroughbass, this conception
+was unattainable, however near it may seem. By thus doing what thorough-
+bass could never have done, by identifying chords which are made up of the
+same tones, no matter which of them happens to be in the bass, he invented
+the theory of _inversions_ of chords. That was certainly an extraordinary flash
+of genius, for it simplified the whole apparatus of harmony at a single stroke.
+From thenceforth, the common chord, the 6 chord and the 6/4 chord became
+simply different forms of the same chord, and the 7, 6/5, 6/4/3 and 6/4/2, were similarly
+identified. This may have been divined before, but it had never been
+expressed.
 
-It is very much to be regretted that Rameau was kept back, by d'Alem- 
-bert, from elaborating his system of harmony on the dual principle. How 
-fine was his harmonic sense is shown by two further peculiar- 
-ities of his system: (1) By his conceiving the diminished 
-chord as a dominant seventh chord with the root omitted, 
-e. </., B-D-F as the chord with G omitted ; and (2) by his 
+It is very much to be regretted that Rameau was kept back, by d’Alem-
+bert, from elaborating his system of harmony on the dual principle. How
+fine was his harmonic sense is shown by two further peculiar-
+ities of his system: (1) By his conceiving the diminished
+chord as a dominant seventh chord with the root omitted,
+_e. g._, B-D-F as the chord with G omitted; and (2) by his 
 conceiving the chord in C major as the subdominant chord 
-with an added sixth, an(^ no^ as tne **rs* mversi°n °f the 
+with an added sixth, and not as the first inversion of the 
 supertonic chord with a seventh, as might have been expected, 
 and as is commonly done now. No musician will deny that 
 
