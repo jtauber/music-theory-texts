@@ -65,54 +65,54 @@ what benefit the practical teaching of music has already derived from exact
 science, and how much it may still hope to draw from such study in wholly
 new directions.
 
-The oldest portion of our exact scientific knowledge in connection with 
-harmony is that investigation into the nature of sounding bodies which 
-produced _the mathematical definitions of the consonant intervals_. These defi- 
-nitions are ascribed to Pythagoras; but are, without doubt, much older than 
-he. The well-known legend about the blacksmith's hammers of different 
-weights, which led Pythagoras to the discovery of the relative numerical 
-proportions of the intervals, is physically false as to its central fact. Py- 
-thagoras very likely got his facts about intervals, as determined by measur- 
+The oldest portion of our exact scientific knowledge in connection with
+harmony is that investigation into the nature of sounding bodies which
+produced _the mathematical definitions of the consonant intervals_. These defi-
+nitions are ascribed to Pythagoras; but are, without doubt, much older than
+he. The well-known legend about the blacksmith's hammers of different
+weights, which led Pythagoras to the discovery of the relative numerical
+proportions of the intervals, is physically false as to its central fact. Py-
+thagoras very likely got his facts about intervals, as determined by measur-
 
 ---
 
-ing the different lengths of string which produce them, from the Egyptian 
-priests, with the rest of his philosophy of numbers ; at least the elements 
+ing the different lengths of string which produce them, from the Egyptian
+priests, with the rest of his philosophy of numbers; at least the elements
 of it. 
 
-Of course, the practical musician has a right to ask, " Of what use is it to 
-Art and artists to know that when two strings sound the interval of an octave, 
-they being of the same weight and tension, their lengths are related as 1 : 2; 
-or if they produce a fifth, as 2 : 3 ; or a fourth, as 3:4?" And certainly 
-the composer derives no direct benefit from knowing these facts ; only the 
-maker of instruments can apply them in his measurements, and the player in 
-finding out how to stop his strings correctly. But, indirectly, we do gain a 
-great deal from knowing that two tones at the interval of an octave stand in 
-the simplest of all mathematical relations to each other, and that this simple 
-relation does (in some as yet unexplained way) make its impression on our 
-minds ; since we really do perceive the octave to be a nearer and simpler 
-relation of two tones than any other combination whatever. We certainly 
-ought not to forget that no system of music can be practical which does not 
-admit of looking at different tones from common points of view ; such, for 
-example, as that which allows us to give the same name to two tones an octave 
-apart. We should hardly have come to this without the help of mathematics. 
+Of course, the practical musician has a right to ask, “Of what use is it to
+Art and artists to know that when two strings sound the interval of an octave,
+they being of the same weight and tension, their lengths are related as 1:2;
+or if they produce a fifth, as 2:3; or a fourth, as 3:4?” And certainly
+the composer derives no _direct_ benefit from knowing these facts; only the
+maker of instruments can apply them in his measurements, and the player in
+finding out how to stop his strings correctly. But, _indirectly_, we do gain a
+great deal from knowing that two tones at the interval of an octave stand in
+the simplest of all mathematical relations to each other, and that this simple
+relation does (in some as yet unexplained way) make its impression on our
+minds; since we really do perceive the octave to be a nearer and simpler
+relation of two tones than any other combination whatever. We certainly
+ought not to forget that no system of music can be practical which does not
+admit of looking at different tones from common points of view; such, for
+example, as that which allows us to give the same name to two tones an octave
+apart. We should hardly have come to this without the help of mathematics.
 
-The Greeks designated tones an octave apart by the same sign (at least 
-this is true of their latest notation), discriminating them, however, by a 
-mark, just as we discriminate the once-marked c from small c. The occiden- 
-tal music system has done the same thing since the tenth, or even since the 
-ninth century. The fifth and fourth, too, intervals whose relations are only 
-less simple than those of the octave, play a correspondingly important part 
-in practice. The key-note, fourth, fifth and octave, are the fundamental 
-tones of the ancient no less than the modern scales. In the ancient system 
-they were the only" unchangeable tones ; the second, third, sixth and seventh 
-varied with the chromatic and enharmonic modes. I do not need to empha- 
-size the importance of the fifth in our modern doctrine of keys and chords; 
-especially in our view of the keys, everything turned on it, up to Moritz 
-Hauptmann's time. 
+The Greeks designated tones an octave apart by the same sign (at least
+this is true of their latest notation), discriminating them, however, by a
+mark, just as we discriminate the once-marked _c̄_ from small c. The occiden-
+tal music system has done the same thing since the tenth, or even since the
+ninth century. The fifth and fourth, too, intervals whose relations are only
+less simple than those of the octave, play a correspondingly important part
+in practice. The key-note, fourth, fifth and octave, are the fundamental
+tones of the ancient no less than the modern scales. In the ancient system
+they were the only unchangeable tones ; the second, third, sixth and seventh
+varied with the chromatic and enharmonic modes. I do not need to empha-
+size the importance of the fifth in our modern doctrine of keys and chords;
+especially in our view of the keys, everything turned on it, up to Moritz
+Hauptmann’s time.
 
-The third was not acknowledged at all as a consonance by the ancients. 
-They did not use our consonant third, related as 4 : 5 ; the tone of their 
+The third was not acknowledged at all as a consonance by the ancients.
+They did not use our consonant third, related as 4:5; the tone of their 
 
 ---
 
