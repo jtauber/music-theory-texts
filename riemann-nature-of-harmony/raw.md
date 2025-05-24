@@ -256,7 +256,7 @@ the same way in the thoroughbass system:—
 
 
 \* A “discant” was simply a second melody invented to go with a given bass and heard simultaneously 
-with it.—Translator.
+with it.—Tʀᴀɴsʟᴀᴛᴏʀ.
 
 ---
 
@@ -495,7 +495,7 @@ normal harmonies, viz., major chords with major and minor sevenths, and
 minor and diminished chords with minor sevenths. Kirnberger’s system has
 maintained itself in practical instruction books, with no essential modifica-
 tions, to the present day. _Since Rameau, the sole criterion for distinguishing_ 
-_normal chords, inversions and suspensions has been the_ <sc>formation by thirds</sc>;
+_normal chords, inversions and suspensions has been the_ ғᴏʀᴍᴀᴛɪᴏɴ ʙʏ ᴛʜɪʀᴅs;
 _i. e._, chords which form a series of thirds above the bass note have been
 regarded as normal; those which are formed in the same way, but have some
 other tone than the root in the bass, have been regarded as inversions; and,
@@ -707,7 +707,7 @@ apparatus of more or less tense nerve fibres of different lengths; that these
 are set in vibration by sound waves, according to the laws of sympathetic
 
 \* “Die Lehre von den Tonempfindungen als physiologische Grundlage für die Theorie der Musik” (1863,
-4th Auflage, 1877). There is an English translation of this work.— <sc>Translator</sc>.
+4th Auflage, 1877). There is an English translation of this work.—Tʀᴀɴsʟᴀᴛᴏʀ.
 
 ---
 
