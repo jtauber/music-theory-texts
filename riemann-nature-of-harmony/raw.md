@@ -827,41 +827,41 @@ account of minor thirds, fourths, sixths, or any other intervals. To his
 
 ---
 
-mind, they have no independent existence or significance; they are only 
-products, combinations of the fundamental conceptions, octave, fifth, third. 
-It must be confessed that even this was not absolutely new ; mathematicians 
-had known for centuries that all possible musical intervals could be expressed 
-as products and powers of the numbers 2, 3, 5. The ancient theory recog- 
-nized only two fundamental intervals : the octave and the fifth. All other 
-intervals it derived from these. Thus, the second (c-d) was the second fifth 
-(c-g-d) reduced to the lower octave; the third was a lower octave of the 
-fourth fifth (c-g-d-a-e), etc. Since Fogliani and Zarlino established the 
-consonance of the third, that interval has been taken into account in all 
-occidental music. The major seventh (c-b), for example, is defined* as the 
-third of the fifth (c-g-b) ; the augmented fourth (c-f jf ) as the third of the 
-second fifth (e-g-d-fjj); the augmented fifth (c-gjf) as the third of the 
-third, etc. But it was Hauptmann through whom the recognition of these 
-facts passed into the text-books on harmony. 
+mind, they have no independent existence or significance; they are only =
+products, combinations of the fundamental conceptions, octave, fifth, third.
+It must be confessed that even this was not absolutely new ; mathematicians
+had known for centuries that all possible musical intervals could be expressed
+as products and powers of the numbers 2, 3, 5. The ancient theory recog-
+nized only two fundamental intervals: the octave and the fifth. All other
+intervals it derived from these. Thus, the second (c-d) was the second fifth
+(c-g-d) reduced to the lower octave; the third was a lower octave of the
+fourth fifth (c-g-d-a-e), etc. Since Fogliani and Zarlino established the
+consonance of the third, that interval has been taken into account in all
+occidental music. The major seventh (c-b), for example, is defined as the
+third of the fifth (c-g-b); the augmented fourth (c-f♯) as the third of the
+second fifth (e-g-d-f♯); the augmented fifth (c-g♯) as the third of the
+third, etc. But it was Hauptmann through whom the recognition of these
+facts passed into the text-books on harmony.
 
-It was Hauptmann who invented a notation (letters, not notes), by means 
-of which he could distinguish tones related by fifths from those related by 
-thirds. In this notation, two tones of the same name, but differing by the 
-so-called " Didymic," or " syntonic comma," were indicated, the one by a 
-capital and the other by a lower-case letter. As above mentioned, Didymus 
-had a tetrachord, j6 \q *6 ' in which there were two kinds of whole-tones, 
-one having the ratio 10 : 9, and the other 9 : 8. The difference of the two 
-ratios (-1/ : |) is the " Didymic comma," 80 : 81. 
+It was Hauptmann who invented a notation (letters, not notes), by means
+of which he could distinguish tones related by fifths from those related by
+thirds. In this notation, two tones of the same name, but differing by the
+so-called “Didymic,” or “syntonic comma,” were indicated, the one by a
+capital and the other by a lower-case letter. As above mentioned, Didymus
+had a tetrachord,         in which there were two kinds of whole-tones,
+one having the ratio 10:9, and the other 9:8. The difference of the two
+ratios (10/9:9/8) is the “Didymic comma,” 80:81.
 
-In our major scale, the whole tone c-d has the ratio 8 : 9, (d is the second 
-fifth of c, i. e., (f )2 = J, reduced to the lower octave, f ), and the whole tone 
-d-e has the ratio of 9 : 10, (e is the third of c ; i. e., J, and d : e = f : f = f £ 
-= ^. This third e (f ) differs from the e which is a lower octave of the 
-fourth fifth by 80 : 81. For the fourth fifth (c-g-d-a-e) = (f)4 — fj; 
-reduced to the lower octave, f J. The true third, f = ff. Ratio of the 
-two thirds, 80 : 81. Hauptmann uses a capital C for the note which was his 
-original starting point ; the true third he indicates with a small e, and uses 
-a capital E for the tone produced from the series of fifths. Everywhere in 
-his notation capital letters indicate a series of fifths ; intervals represented 
+In our major scale, the whole tone c-d has the ratio 8:9, (d is the second
+fifth of c, _i. e._, (3/2)^2=9/4, reduced to the lower octave, 9/8), and the whole tone
+d-e has the ratio of 9:10, (e is the third of c; _i. e._, 5/4, and d:e=9/8:5/4=40/36
+=10/9. This third e (5/4) differs from the e which is a lower octave of the
+fourth fifth by 80:81. For the fourth fifth (c-g-d-a-e)=(3/2)4=81/16;
+reduced to the lower octave, 81/64. The true third, 5/4=80/64. Ratio of the
+two thirds, 80:81. Hauptmann uses a capital C for the note which was his
+original starting point; the true third he indicates with a small e, and uses
+a capital E for the tone produced from the series of fifths. Everywhere in
+his notation capital letters indicate a series of fifths; intervals represented
 
 ---
 
