@@ -749,43 +749,43 @@ the major consonance results from the _overtone_ series. The minor chord is
 
 ---
 
-just as free from beats as the major chord given above; and 
-blends just as perfectly into a unity, the central point of which 
-is the highest tone. There is, to be sure, the common resultant 
-tone F, to disturb the consonance, but over against this we 
-must set the disturbance of the coincident overtone b'", pro- 
-duced by the major chord in the position giyen above. Von Oettingen also 
-pointed out a way for the discrimination of consonance and dissonance — a 
-way in which we may reach satisfactory results. But this way leads us from 
-the domain of physiology into that of psychology. 
+just as free from beats as the major chord given above; and
+blends just as perfectly into a unity, the central point of which
+is the _highest_ tone. There is, to be sure, the common resultant
+tone F, to disturb the consonance, but over against this we
+must set the disturbance of the coincident overtone b‴, pro-
+duced by the major chord in the position given above. Von Oettingen also
+pointed out a way for the discrimination of consonance and dissonance—a
+way in which we may reach satisfactory results. But this way leads us from
+the domain of physiology into that of psychology.
 
-With great intellectual acuteness, the able Gottingen philosopher, Her- 
-mann Lotze (Geschichte der Aesthetik in Deutschland, 1868), discovered, 
-the Achilles-heel of the Helmholtz system. Like von Oettingen, he insisted 
-on a difference of principle between major and minor, and between conso- 
-nance and dissonance. He even thought the difference between different 
-kinds of dissonances must be something more than difference in degrees of 
-euphony. Since then a number of musico-theoretical writings have been 
-published, in which those points of Helmholtz's doctrine criticised by von 
-Oettingen and Lotze have been attacked from different standpoints. These 
-writings take von Oettingen's well-nigh complete system as a starting-point 
-for further investigation, and seek to solve those problems which are still 
+With great intellectual acuteness, the able Göttingen philosopher, Her-
+mann Lotze (Geschichte der Aesthetik in Deutschland, 1868), discovered
+the Achilles-heel of the Helmholtz system. Like von Oettingen, he insisted
+on a difference of principle between major and minor, and between conso-
+nance and dissonance. He even thought the difference between different
+kinds of dissonances must be something more than difference in degrees of
+euphony. Since then a number of musico-theoretical writings have been
+published, in which those points of Helmholtz's doctrine criticised by von
+Oettingen and Lotze have been attacked from different standpoints. These
+writings take von Oettingen’s well-nigh complete system as a starting-point
+for further investigation, and seek to solve those problems which are still
 doubtful.* 
 
-I have thus far said nothing of Moritz Hauptmann, whose epoch-making 
-work, "Die Natur der Harmonik und der Metrik," was published in 1853; 
-but this was because I wished to do full justice to his merits. This I can 
-now do without interruption. Hauptmann was at the same time a man of 
-high musical gifts and a profound philosophic thinker. The idea of dualism 
-in harmony, of the diametrically opposite nature of major and minor, which 
-two of the ablest among the older theorists discovered on the line of mathe- 
-matical construction, he rediscovered on the line of philosophical speculation, 
-long after the works of those two writers, on the dusty shelves of old libra- 
-ries, were sleeping the sleep of eternal oblivion. Hauptmann's memorable 
+I have thus far said nothing of Moritz Hauptmann, whose epoch-making
+work, “Die Natur der Harmonik und der Metrik,” was published in 1853;
+but this was because I wished to do full justice to his merits. This I can
+now do without interruption. Hauptmann was at the same time a man of
+high musical gifts and a profound philosophic thinker. The idea of _dualism_
+in harmony, of the diametrically opposite nature of major and minor, which
+two of the ablest among the older theorists discovered on the line of mathe-
+matical construction, he rediscovered on the line of philosophical speculation,
+long after the works of those two writers, on the dusty shelves of old libra-
+ries, were sleeping the sleep of eternal oblivion. Hauptmann’s memorable
 
-* Dr. Adolph Thtlrling'a " Die beiden Tongeschlechter und die neuere musikalische Theorie" (1877); Dr. 
-Ottokar Hostinsky's " Die Lehre von den musikalischen Klangcn " (1879) ; and my own " Musikalische 
-Logik," and " Musikalische Syntaxis," as well as my " Skuze einer neuen Methode der Harmoniclehre," (1880). 
+\* Dr. Adolph Thürling’s “Die beiden Tongeschlechter und die neuere musikalische Theorie” (1877); Dr.
+Ottokar Hostinsky’s “Die Lehre von den musikalischen Klängen” (1879); and my own “Musikalische
+Logik,” and ”Musikalische Syntaxis,” as well as my “Skizze einer neuen Methode der Harmoniclehre,” (1880).
 
 ---
 
