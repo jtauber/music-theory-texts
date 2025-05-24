@@ -789,41 +789,41 @@ Logik,” and ”Musikalische Syntaxis,” as well as my “Skizze einer neuen M
 
 ---
 
-discovery that the minor chord ought to be regarded as a major chord upside 
-flown, developed negatively instead of positively, made a great sensation. 
-Of course, when we now find, in studying the history of harmony teaching, 
-that the same discovery had been made by Tartini a hundred years before 
-and by Zarlino three hundred years earlier, we cannot give Hauptmann the 
-credit of its first discovery ; historically it is not a new idea. But it would 
-be very unjust to Hauptmann to deny him the merit of having discovered it 
-for himself. So far as the present and future development of theory is con- 
-cerned, Hauptmann is the originator of the idea. It did not occur to any 
-of the theorists of our time, any more than to those of the first half of the 
-century, to go back to Zarlino or Tartini for wisdom in these matters. Tlte 
-idea came to all of us from Hauptmann. There are his own faithful pupils, 
-Kohler, Paul, and Rischbieter, who hold to the letter of his teaching. 
-O. Tiersch, who seeks a compromise between Hauptmann and Helmholtz 
-(see his " System und Methode der Harmoniclehre," 1868) ; then the strictly 
-consistent dualists, von Oettingen, Thurlings, myself, and with some reserva- 
-tions, Hostinsky, who have become more Hauptmannish than Hauptmann 
-himself — all of us received the idea of dualism in harmony as a new concep- 
-tion from him. I myself brought -to light the fact that there had been 
-previous advocates of this idea ; as regards Tartini, in my pamphlet, " Die 
-objective Existenz, etc.," published in 1875, and as regards Zarlino, in the 
-article " Zarlino als harmonischer Dualist," published in the " Monatshefte 
-fur Musikgeschichte," in the year 1881. ' 
+discovery that the minor chord ought to be regarded as a major chord upside
+flown, developed negatively instead of positively, made a great sensation.
+Of course, when we now find, in studying the history of harmony teaching,
+that the same discovery had been made by Tartini a hundred years before
+and by Zarlino three hundred years earlier, we cannot give Hauptmann the
+credit of its first discovery; historically it is not a new idea. But it would
+be very unjust to Hauptmann to deny him the merit of having discovered it
+for himself. So far as the present and future development of theory is con-
+cerned, Hauptmann is the originator of the idea. It did not occur to any
+of the theorists of our time, any more than to those of the first half of the
+century, to go back to Zarlino or Tartini for wisdom in these matters. The
+idea came to all of us from Hauptmann. There are his own faithful pupils,
+Köhler, Paul, and Rischbieter, who hold to the letter of his teaching.
+O. Tiersch, who seeks a compromise between Hauptmann and Helmholtz
+(see his “System und Methode der Harmoniclehre,” 1868); then the strictly
+consistent dualists, von Oettingen, Thürlings, myself, and with some reserva-
+tions, Hostinsky, who have become more Hauptmannish than Hauptmann
+himself—all of us received the idea of dualism in harmony as a new concep-
+tion from him. I myself brought to light the fact that there had been
+previous advocates of this idea; as regards Tartini, in my pamphlet, “Die
+objective Existenz, etc.,” published in 1875, and as regards Zarlino, in the
+article “Zarlino als harmonischer Dualist,” published in the “Monatshefte
+fur Musikgeschichte,” in the year 1881.
 
-Hauptmann's system influenced Helmholtz's very strongly, although he 
-has never accepted the principle of dualism in harmony, and even now 
-maintains, at most, a passive attitude with reference to it.» The evidence of 
-this is to be found in Part III of his "Tonempfindungen," on " Chord Affini- 
-ties." This is the most valuable part of his book, as regards music. In this 
-part one feels everywhere that Hauptmann's fundamental principle — " there 
-are three directly intelligible intervals : I, the Octave ; II, the Fifth ; III, 
-the Major Third " (Natur der Harmonik und der Metrik, p. 21) — underlies 
-the whole. This is a great and epoch-making conception, and implies every- 
-thing which exact science has discovered since. Hauptmann makes no 
-account of minor thirds, fourths, sixths, or any other intervals. To his 
+Hauptmann’s system influenced Helmholtz’s very strongly, although he
+has never accepted the principle of dualism in harmony, and even now
+maintains, at most, a passive attitude with reference to it. The evidence of
+this is to be found in Part III of his “Tonempfindungen,” on “Chord Affini-
+ties.” This is the most valuable part of his book, as regards music. In this
+part one feels everywhere that Hauptmann’s fundamental principle—“there
+are three directly intelligible intervals: I, the Octave; II, the Fifth; III,
+the Major Third” (Natur der Harmonik und der Metrik, p. 21)—underlies
+the whole. This is a great and epoch-making conception, and implies every-
+thing which exact science has discovered since. Hauptmann makes no
+account of minor thirds, fourths, sixths, or any other intervals. To his
 
 ---
 
