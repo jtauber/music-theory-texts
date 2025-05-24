@@ -508,47 +508,47 @@ there was soon a reaction from this, and the chord of the ninth became the
 
 ---
 
-extreme limit of the chords acknowledged as normal ; even this being 
-coupled with certain conditions. 
+extreme limit of the chords acknowledged as normal; even this being
+coupled with certain conditions.
 
-I have already mentioned that Tartini, the renowned violinist, revived 
-Zarlino's idea of the dual nature of harmony, after two hundred years of 
-oblivion.* 
+I have already mentioned that Tartini, the renowned violinist, revived
+Zarlino's idea of the dual nature of harmony, after two hundred years of
+oblivion.*
 
-It is not impossible that Tartini had thoroughly studied and understood 
-Zarlino ; he not only bases the major chord on the harmonic, and the minor 
-chord on the arithmetical division of the string, but he s"ees in the minor 
-chord not another hind of third ; i. e. not a minor third, as the thoroughbass 
-system does, but only a changed position of the major third. In the major 
-chord the major third is above the principal tone ; in the
-minor chord it is below it ; the fifth being here regarded
-as principal tone, thus :
+It is not impossible that Tartini had thoroughly studied and understood
+Zarlino; he not only bases the major chord on the harmonic, and the minor
+chord on the arithmetical division of the string, but he sees in the minor
+chord _not another kind of third_; _i. e._ not a _minor_ third, as the thoroughbass
+system does, but only a _changed position of the major third_. In the major
+chord the major third is _above_ the principal tone; in the
+minor chord it is _below_ it; the fifth being here regarded
+as principal tone, thus:—
 
-But Tartini was a contemporary of Rameau's, and so could not simply 
-occupy Zarlino's standpoint. The question of basing consonance on acoustic 
-principles, which Rameau had raised, excited lively interest in his mind, and 
-he discovered new aspects of it. To be sure, he did not carry the attempt to 
-account for the minor chord beyond pointing out that it is the polar opposite 
-of the major, in the sense of Zarlino's "arithmetical" and " harmonical " 
-division of a string; but he enlarged the conception of the major chord, by 
-refusing to ignore, as other theorists did, the fact that the series of overtones 
-does not stop with the sixth. The seventh overtone (a trifle lower than the 
-seventh of our tempered system) is commonly regarded as a dissonance; but 
-Tartini affirmed, quite consistently, that the major chord with a natural 
-seventh is a consonance. This opinion is shared by no less an authority in 
-exact acoustic science than Helmholtz. 
+But Tartini was a contemporary of Rameau’s, and so could not simply
+occupy Zarlino’s standpoint. The question of basing consonance on acoustic
+principles, which Rameau had raised, excited lively interest in his mind, and
+he discovered new aspects of it. To be sure, he did not carry the attempt to
+account for the minor chord beyond pointing out that it is the polar opposite
+of the major, in the sense of Zarlino’s “arithmetical” and ”harmonical”
+division of a string; but he enlarged the conception of the major chord, by
+refusing to ignore, as other theorists did, the fact that the series of overtones
+does not stop with the sixth. The seventh overtone (a trifle lower than the
+seventh of our tempered system) is commonly regarded as a dissonance; but
+Tartini affirmed, quite consistently, that the major chord with a natural
+seventh is a _consonance_. This opinion is shared by no less an authority in
+exact acoustic science than Helmholtz.
 
-As a matter of fact, both are correct, if we take into account only physi- 
-cal euphony, i. e. the blending of the tones without disturbance. Indeed, 
+As a matter of fact, both are correct, if we take into account only _physi_-
+_cal euphony_, _i. e._ the blending of the tones without disturbance. Indeed, 
 the major chord of our tempered system is less consonant, if this test alone 
 be adopted. But whether even the natural seventh chord, having the pro- 
-portions 4 : 5 : 6 : 7, is a musical consonance or not, is another question.f 
+portions 4:5:6:7, is a musical consonance or not, is another question.†
 
-* ,; Trattato df rausica socondo la vera scienza dell' armonia," (1754) and " De principj dell' armonia musi- 
-cule contennta nel diatonico genera," (17G7). 
+\* “Trattato di musica secondo la vera scienza dell’ armonia,” (1754) and “De principj dell’ armonia musi- 
+cule contenuta nel diatonico genere,” (1767). 
 
-t As to the musical conception of the natural seventh as well as of all the overtones which do not belong 
-to the major chord, see my " Musikalische Logik," (1873, p. 15) and " Musikalischo Syntaxis " (1877, p. 7), 
+† As to the musical conception of the natural seventh as well as of all the overtones which do not belong 
+to the major chord, see my “Musikalische Logik,” (1873, p. 15) and ”Musikalische Syntaxis” (1877, p. 7).
 
 ---
 
