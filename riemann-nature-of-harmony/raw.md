@@ -539,54 +539,54 @@ seventh is a _consonance_. This opinion is shared by no less an authority in
 exact acoustic science than Helmholtz.
 
 As a matter of fact, both are correct, if we take into account only _physi_-
-_cal euphony_, _i. e._ the blending of the tones without disturbance. Indeed, 
-the major chord of our tempered system is less consonant, if this test alone 
-be adopted. But whether even the natural seventh chord, having the pro- 
+_cal euphony_, _i. e._ the blending of the tones without disturbance. Indeed,
+the major chord of our tempered system is less consonant, if this test alone
+be adopted. But whether even the natural seventh chord, having the pro-
 portions 4:5:6:7, is a musical consonance or not, is another question.†
 
 \* “Trattato di musica secondo la vera scienza dell’ armonia,” (1754) and “De principj dell’ armonia musi- 
-cule contenuta nel diatonico genere,” (1767). 
+cule contenuta nel diatonico genere,” (1767).
 
 † As to the musical conception of the natural seventh as well as of all the overtones which do not belong 
 to the major chord, see my “Musikalische Logik,” (1873, p. 15) and ”Musikalische Syntaxis” (1877, p. 7).
 
 ---
 
-In such matters Art cannot accept the decisions of Science as final or con- 
-clusive. A few decades later than Tartini, Kirnberger and Fasch, in Berlin, 
-also tried to utilize the natural seventh for practical musical purposes, but 
-with small success. For, of course, we can hardly use an imtempered sev- 
-enth with a tempered third and fifth ; and nobody has proposed to use the 
-natural seventh in our system as a fundamental (dissonant) interval, without 
-being tempered like the rest. 
+In such matters Art cannot accept the decisions of Science as final or con-
+clusive. A few decades later than Tartini, Kirnberger and Fasch, in Berlin,
+also tried to utilize the natural seventh for practical musical purposes, but
+with small success. For, of course, we can hardly use an imtempered sev-
+enth with a tempered third and fifth ; and nobody has proposed to use the
+natural seventh in our system as a fundamental (dissonant) interval, without
+being tempered like the rest.
 
-Tartini is also well known as the discoverer of the Combination (or result- 
-ant) tones, which were named, after him, " The Tartini tones." It is true his 
-"Trattato" was first published in 1754, while Sorge had called attention to 
-the combination-tones in his "Vorgemach musikalischer Komposition," 
-published in 1740 ; but Tartini discovered them as early as 1714 ; and when 
-he. opened his violin school in Padua, in 1728, he made them the test of the 
-correct intonation of chords. (Compare my " Studien zur Geschichte der 
-Notenschrift," 1878, page 101.) The phenomenon of combination-tones, as 
-Tartini correctly observed, coincides with that of overtones, to this extent. 
-When two tones sound together, the lower (combination) tones which are 
-audible are no other than the tones of the overtone series in which the tones 
-of the original interval would be designated by the smallest ordinal numbers. 
-The series extends downward to the fundamental or generator. Tartini 
-made only an imperfect investigation of the series of combination tones, as 
-did Rameau of the overtones. He only heard the lowest resultant tone, the 
-fundamental tone of the series ; and at first (in his " Trattato,") he located 
-it an octave too high; but in his later book " De principj," he gave it its 
-correct position. 'We know now that the whole overtone series of this fun- 
-damental tone can be heard, not only the tones below the given interval, but 
-those which correspond with it, and the higher ones, so that the relationship 
-of the two phenomena is evident enough. The fifth 2 : 3 (c-g) gives only 
-one combination-tone, that which corresponds to 1, namely, the octave below 
-the lower tone of the interval (C). The fourth 3 : 4 (g-c') makes 1 and 2 
-(C-c) audible; the third 4:5 (c'-e') the tones 1,2 and 3 (C-c-g), etc. 
-These deeper resultant tones are of especial importance in comprehending the 
-major chord ; they furnish the only true scientific basis for the explanation of 
-inversions ; since the chord c'-e -g', the first inversion (6 chord) e'-g'-c" 
+Tartini is also well known as the discoverer of the _Combination_ (or result-
+ant) _tones_, which were named, after him, “The Tartini tones.” It is true his
+“Trattato” was first published in 1754, while Sorge had called attention to
+the combination-tones in his “Vorgemach musikalischer Komposition,”
+published in 1740; but Tartini discovered them as early as 1714; and when
+he opened his violin school in Padua, in 1728, he made them the test of the
+correct intonation of chords. (Compare my “Studien zur Geschichte der
+Notenschrift,” 1878, page 101.) The phenomenon of combination-tones, as
+Tartini correctly observed, coincides with that of overtones, to this extent.
+When two tones sound together, the lower (combination) tones which are
+audible are no other than the tones of the overtone series in which the tones
+of the original interval would be designated by the smallest ordinal numbers.
+The series extends downward to the fundamental or generator. Tartini
+made only an imperfect investigation of the series of combination tones, as
+did Rameau of the overtones. He only heard the lowest resultant tone, the
+fundamental tone of the series; and at first (in his “Trattato,”) he located
+it an octave too high; but in his later book “De principj,” he gave it its
+correct position. We know now that the whole overtone series of this fun-
+damental tone can be heard, not only the tones below the given interval, but
+those which correspond with it, and the higher ones, so that the relationship
+of the two phenomena is evident enough. The fifth 2:3 (c-g) gives only
+one combination-tone, that which corresponds to 1, namely, the octave below
+the lower tone of the interval (C). The fourth 3:4 (g-c′) makes 1 and 2
+(C-c) audible; the third 4:5 (c′-e′) the tones 1, 2 and 3 (C-c-g), etc.
+_These deeper resultant tones are of especial importance in comprehending the_ 
+_major chord; they furnish the only true scientific basis for the explanation of_ 
+_inversions;_ since the chord c′-e-g′, the first inversion (6 chord) e′-g′-c″ 
 
 ---
 
