@@ -660,54 +660,54 @@ point, so far as the facts have been observed, and I find nothing inconsistent
 with this hypothesis. (See my “Musikalische Logik,” 1873, p. 12; “Die
 objective existenz der undertöne in der Schallwelle,” 1875, printed separately
 from the “Allgemeine Deutsche Musikzeitung;” “Musikalische Syntaxis,”
-1877, preface and appendix, and the article on “Untertöne” in my ”Musik- 
+1877, preface and appendix, and the article on “Untertöne” in my ”Musik-
 Lexikon.”)
 
 But whatever any one may think of this or that opinion of mine, thus much
 remains certain: _The major and minor chords are, as regards their mathemat_- 
-_ical and acoustical relations, the polar opposites of each other_. The further 
-question is, whether the physiology of hearing, and the psychology of musical 
+_ical and acoustical relations, the polar opposites of each other_. The further
+question is, whether the physiology of hearing, and the psychology of musical
 
 ---
 
-perception find a similar reciprocity of major and minor intelligible, and 
-whether they can recognize this mathematico-physical principle as valid for 
+perception find a similar reciprocity of major and minor intelligible, and
+whether they can recognize this mathematico-physical principle as valid for
 them also. 
 
-The physiology of tone sensations has only lately been thoroughly inves- 
-tigated, mainly by the distinguished physicist and physiologist, Helmholtz.* 
-This book is not devoted exclusively to physiological investigations, as 
-might, perhaps, be inferred from its title, but comprehends the whole domain 
-of exact science as related to tone, from the production and conveyance of 
-tone on to the mental correlation of tone representations. That is to say, 
-it is largely occupied, on the one hand, with mathematical and physical 
-investigation, and on the other, it extends to the field of psychology and 
-aesthetics. 
+The physiology of tone sensations has only lately been thoroughly inves-
+tigated, mainly by the distinguished physicist and physiologist, Helmholtz.*
+This book is not devoted exclusively to physiological investigations, as
+might, perhaps, be inferred from its title, but comprehends the whole domain
+of exact science as related to tone, from the production and conveyance of
+tone on to the mental correlation of tone representations. That is to say,
+it is largely occupied, on the one hand, with mathematical and physical
+investigation, and on the other, it extends to the field of psychology and
+aesthetics.
 
-Thus, the theory of overtones and combination-tones is treated in detail, 
-and differences in tone-color (timbre) are explained as the result of different 
-combinations of overtones in the complex tones we hear. These investiga- 
-tions are invaluable, especially as regards the theory of the construction of 
-instruments. They explain, for example, the mixture stops of the organ, 
-which were in practical use long before the tones of pipes were known to be 
-complex, showing that the auxiliary ranks of pipes merely reinforce the over- 
-tones which make up the chord of the fundamental, and thus strengthen its 
-impression. 
+Thus, the theory of overtones and combination-tones is treated in detail,
+and differences in tone-color (_timbre_) are explained as the result of different
+combinations of overtones in the complex tones we hear. These investiga-
+tions are invaluable, especially as regards the theory of the construction of
+instruments. They explain, for example, the mixture stops of the organ,
+which were in practical use long before the tones of pipes were known to be
+complex, showing that the auxiliary ranks of pipes merely reinforce the over-
+tones which make up the chord of the fundamental, and thus strengthen its
+impression.
 
-The physiological chapters in Helmholtz's book are (1) those which treat 
-of the faculty possessed by the ear of analyzing complex tones, of separating 
-such tones into their component elements, although they reach the ear as a 
-single vibration-form ; (2) that which treats of the perception of differences 
-of tone-color (timbre), which rests on the same principles ; and (3) that on 
-the comparative euphony of the different kinds of chords. Fine and intelli- 
-gent as are the investigations and observations on the first two problems, 
-they can only be considered as hypothetical, and Helmholtz himself so con- 
-siders them. His hypothesis is, that there is in the ear a complicated 
-apparatus of more or less tense nerve fibres of different lengths ; that these 
-are set in vibration by sound waves, according to the laws of sympathetic 
+The physiological chapters in Helmholtz’s book are (1) those which treat
+of the faculty possessed by the ear of analyzing complex tones, of separating
+such tones into their component elements, although they reach the ear as a
+single vibration-form; (2) that which treats of the perception of differences
+of tone-color (timbre), which rests on the same principles; and (3) that on
+the comparative euphony of the different kinds of chords. Fine and intelli-
+gent as are the investigations and observations on the first two problems,
+they can only be considered as hypothetical, and Helmholtz himself so con-
+siders them. His hypothesis is, that there is in the ear a complicated
+apparatus of more or less tense nerve fibres of different lengths; that these
+are set in vibration by sound waves, according to the laws of sympathetic
 
-* "Die Lehre von den Tonempfindimgen als physiologische Grundlage fur die Theorie der Musik " 
-4th Auflage, 1877). There is an English translation of this work.— Translator. 
+\* “Die Lehre von den Tonempfindungen als physiologische Grundlage für die Theorie der Musik” (1863,
+4th Auflage, 1877). There is an English translation of this work.— <sc>Translator</sc>.
 
 ---
 
