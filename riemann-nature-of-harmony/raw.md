@@ -586,52 +586,48 @@ the lower tone of the interval (C). The fourth 3:4 (g-c′) makes 1 and 2
 (C-c) audible; the third 4:5 (c′-e′) the tones 1, 2 and 3 (C-c-g), etc.
 _These deeper resultant tones are of especial importance in comprehending the_ 
 _major chord; they furnish the only true scientific basis for the explanation of_ 
-_inversions;_ since the chord c′-e-g′, the first inversion (6 chord) e′-g′-c″ 
+_inversions;_ since the chord c′-e-g′, the first inversion (6 chord) e′-g′-c″
 
 ---
 
-and the second inversion (J chord), g-c'e' 
+and the second inversion (6/4 chord), g-c′e′ 
 find their common point of union in 
-the resultant tone C, thus: — 
+the resultant tone C, thus:— 
 
-
-Chord* 
-
+Chords.
 
 Deep result- 
 ant tones. 
-
 
 But the typical form of the major 
 chord is not
 the close po-
 sition,but the
-open one — 
+open one—
 
-There is another kind of combination (or resultant) tones which did not 
-receive adequate attention until very lately, namely, the coincident overtones 
-(A. von Oettingen, Harmonie-system in dualcr Entwickelung, 1866). Among 
-the higher tones of an interval or chord (?. e., the overtones of the separate 
-tones of the chord, and the combination-tones of the overtones), the first com- 
-mon overtone of the tones of the chord is most distinctly audible. Its ordi- 
-nal number may be found by multiplying together the ordinal numbers of 
-tones .of the intervals in the series of overtones. For this reason it may be 
-called the multiple-tone. Thus the major third 4 : 5 (c'-e') has the multiple 
-tone 4 X 5 == 20 (e'"); the major sixth 3 : 5 (g-e') has 3X5 = 15 (C); the 
-minor third 5 : 6 (e'-g') has 5 X 6 = 30 (b'"). As the minor third e'-g' (or the 
-major sixth g-e') becomes a major chord by the addition of the combination- 
-tone C, so by the addition of the multiple-tone b" (or b"') either becomes a 
-minor chord. A. von Oettingen (Professor of Physics at the University of 
-Dorpat) sees in the multiple-tone, or, as he calls it, the " phonic overtone," 
-the natural bond of the minor chord. Thus b'" is the common overtone of the 
-following series of tones : — 
+There is another kind of combination (or resultant) tones which did not
+receive adequate attention until very lately, namely, the _coincident overtones_
+(A. von Oettingen, Harmonie-system in dualcr Entwickelung, 1866). Among
+the higher tones of an interval or chord (_i. e._, the overtones of the separate
+tones of the chord, and the combination-tones of the overtones), _the first com_-
+_mon overtone_ of the tones of the chord is most distinctly audible. Its ordi-
+nal number may be found by multiplying together the ordinal numbers of
+tones of the intervals in the series of overtones. For this reason it may be
+called the _multiple-tone_. Thus the major third 4:5 (c′-e′) has the multiple
+tone 4×5=20 (e‴); the major sixth 3:5 (g-e′) has 3×5=15 (C″); the
+minor third 5:6 (e′-g′) has 5×6=30 (b‴). As the minor third e′-g′ (or the
+major sixth g-e′) becomes a major chord by the addition of the _combination_- 
+_tone_ C, so by the addition of the _multiple-tone_ b″ (or b‴) either becomes a
+minor chord. A. von Oettingen (Professor of Physics at the University of
+Dorpat) sees in the multiple-tone, or, as he calls it, the ”phonic overtone,”
+_the natural bond of the minor chord_. Thus b‴ is the common overtone of the 
+following series of tones:—
 
+(The tones marked with a * are all slightly higher than the corresponding tones of the tempered system.)
 
-(The tones marked with a * are all slightly higher than the corresponding tones of the tempered system.) 
-
-Here, then, we have the complete undertone series; a series of precisely 
-the same fundamental importance as regards the minor chord that the over- 
-tone series is as regards the major chord. The tones of this series blend into 
+Here, then, we have the complete _undertone series_; a series of precisely
+the same fundamental importance as regards the minor chord that the over-
+tone series is as regards the major chord. The tones of this series blend into
 
 ---
 
