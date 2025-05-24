@@ -892,40 +892,42 @@ valid with the fifth-relationships has got itself fairly established in the
 later music; although many theorists, of the sort who hold rigidly to
 ancient traditions and are impervious to such discoveries of genius as
 this of Hauptmann’s, still look on it as something abnormal, or, at best,
-barely allowable. 
+barely allowable.
 
 Hauptmann’s letter notation distinguishing the third-related from the fifth-
 related tones has been improved by Helmholtz and von Oettingen so as to
 
 ---
 
-distinguish underthirds and overthirds ; thirds related in the first from those 
-related in the second degree, and so on, thus : — 
+distinguish underthirds and overthirds; thirds related in the first from those 
+related in the second degree, and so on, thus:—
 
-Instead of using large and small letters, the mark — is invariably used to 
-indicate the comma (80 : 81). Thus e is a comma lower than e ; jjg is a 
-comma higher than afe ; cj} is two commas lower than c#, etc. 
 
-But Helmholtz not only grasped Hauptmann's theory in all its compre- 
-hensiveness and placed it on a scientific basis (leaving out of sight his un- 
-satisfactory explanation of the minor chord and of the difference between 
-consonance and dissonance), but he developed it further by a new concep- 
-tion, that of chord substitution, a conception which has opened wholly new 
-perspectives. All theorists may have divined that we conceive of single 
-tones as substitutes or representatives of chords, but no one else had ever 
-said so. With Helmholtz, all complex tones are overtone combinations, i. e. 
-major chords. The minor chord c-efc-g, he conceived as a compound of 
-two major chords, those of c and efe. Hostinsky follows him in this and 
-even goes further. But von Oettingen has widened the range of this concep- 
-tion of Helmholtz to an unexampled degree, by treating the minor chord as 
-a real chord which may lie represented in the mind when only one of its tones 
-is present. In this view, the principle of chord substitution (or representation 
-in the above sense) is no longer a principle of acoustics or Physiology but of 
+
+Instead of using large and small letters, the mark — is invariably used to
+indicate the comma (80:81). Thus e̲ is a comma lower than e; a̅♭̅ is a
+comma higher than a♭ ; c̳♯̳ is two commas lower than c♯, etc.
+
+But Helmholtz not only grasped Hauptmann’s theory in all its compre-
+hensiveness and placed it on a scientific basis (leaving out of sight his un-
+satisfactory explanation of the minor chord and of the difference between
+consonance and dissonance), but he developed it further by a new concep-
+tion, that of _chord substitution_, a conception which has opened wholly new
+perspectives. All theorists may have divined that we conceive of single
+tones as substitutes or representatives of chords, but no one else had ever
+said so. With Helmholtz, all complex tones are overtone combinations, _i. e._
+major chords. The minor chord c-e♭-g, he conceived as a compound of
+two major chords, those of c and e♭. Hostinsky follows him in this and
+even goes further. But von Oettingen has widened the range of this concep-
+tion of Helmholtz to an unexampled degree, by treating the minor chord as
+a real chord which may lie represented in the mind when only one of its tones
+is present. In this view, the principle of chord substitution (or representation
+in the above sense) is no longer a principle of acoustics or Physiology but of
 Psychology. If we really find by experience that we are able to conceive a 
-tone as representing a minor chord just as easily as a major chord, neither 
-chord being audibly present, then that is a scientific fact on which we may 
-build quite as well as we can on acoustic phenomena. When we have once 
-acknowledged this, it seems of very little account whether the minor chord 
+tone as representing a minor chord just as easily as a major chord, neither
+chord being audibly present, then that is a scientific fact on which we may
+build quite as well as we can on acoustic phenomena. When we have once
+acknowledged this, it seems of very little account whether the minor chord
 
 ---
 
