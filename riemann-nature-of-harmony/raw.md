@@ -865,40 +865,39 @@ his notation capital letters indicate a series of fifths; intervals represented
 
 ---
 
-by large and small letters alternately are thirds ; those represented by small 
-letters form a series of fifths with one another, thus: — 
+by large and small letters alternately are thirds; those represented by small
+letters form a series of fifths with one another, thus:—
 
-Hauptmann represents the key as made up of the three chords, Tonic, 
-Dominant, and Subdominant, thus : — 
 
-F a C e G b D 
 
-Here we have the two series of fifths, F-C-G-D and a-e-b ; the one made up 
-of tones related to c by fifths, and the other by thirds. The most important 
-point in this treatment of the subject is the recognition of third-relationship 
+Hauptmann represents the key as made up of the three chords, Tonic,
+Dominant, and Subdominant, thus:—
+
+F a C e G b D
+
+Here we have the two series of fifths, F-C-G-D and a-e-b; the one made up
+of tones related to c by fifths, and the other by thirds. The most important
+point in this treatment of the subject is the recognition of _third-relationship_
 in tones and in keys. Even Marx wondered that the keys of E major and 
-A major are directly intelligible after C major, while D major and Bl? major 
-sound foreign and unrelated after it. Marx knew nothing of third-relation- 
-ship, and was naturally astonished that the key of the fourth fifth in the 
-series should seem more closely related than that of the second fifth. But 
-e major is not the key of the fourth fifth, but the key of the third. 
-Although Beethoven, in his sonata in C, Op. 53, wrote his second subject 
-in E major (first movement), Hauptmann was the first who clearly pointed 
-out the third-relationship of keys, and thus solved the problem once for 
-all. Since that time the idea of the third-relationship of keys as equally 
-valid with the fifth-relationships has got itself fairly established in the 
-later music ; although many theorists, of the sort who hold rigidly to 
-ancient traditions and are impervious to such discoveries of genius as 
-this of Hauptmann's, still look on it as something abnormal, or, at best, 
+A major are directly intelligible after C major, while D major and B♭ major 
+sound foreign and unrelated after it. Marx knew nothing of third-relation-
+ship, and was naturally astonished that the key of the fourth fifth in the
+series should seem more closely related than that of the second fifth. But
+e major is not the key of the fourth fifth, but the key of the third.
+Although Beethoven, in his sonata in C, Op. 53, wrote his second subject
+in E major (first movement), Hauptmann was the first who clearly pointed
+out the third-relationship of keys, and thus solved the problem once for
+all. Since that time the idea of the third-relationship of keys as equally
+valid with the fifth-relationships has got itself fairly established in the
+later music; although many theorists, of the sort who hold rigidly to
+ancient traditions and are impervious to such discoveries of genius as
+this of Hauptmann’s, still look on it as something abnormal, or, at best,
 barely allowable. 
 
-Hauptmann's letter notation distinguishing the third-related from the fifth- 
-related tones has been improved by Helmholtz and von Oettingen so as to 
+Hauptmann’s letter notation distinguishing the third-related from the fifth-
+related tones has been improved by Helmholtz and von Oettingen so as to
 
 ---
-
-THE NATURE OF HARMONY. 27 
-
 
 distinguish underthirds and overthirds ; thirds related in the first from those 
 related in the second degree, and so on, thus : — 
