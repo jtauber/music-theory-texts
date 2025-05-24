@@ -631,41 +631,41 @@ tone series is as regards the major chord. The tones of this series blend into
 
 ---
 
-perfect unity in their relation to the highest tone of the series, exactly as the 
-tones of the overtone series do in relation to their fundamental. How our 
-musical perception deals with those tones of the series which do not belong 
-to the minor chord of e (7, 9, 11, 13, 14, etc.) I have already explained 
-above, in connection with the corresponding tones of the overtone series. 
+perfect unity in their relation to the highest tone of the series, exactly as the
+tones of the overtone series do in relation to their fundamental. How our
+musical perception deals with those tones of the series which do not belong
+to the minor chord of e (7, 9, 11, 13, 14, etc.) I have already explained
+above, in connection with the corresponding tones of the overtone series.
 
-But as we do not account for the major chord by the combination-tones 
-alone, but regard the phenomenon of overtones as the real explanation of it, 
-so, in order to explain the minor chord to our perfect satisfaction, we require 
-a corresponding phenomenon of undertones, to set over against the overtones. 
-Although such a phenomenon has not yet been sufficiently well established 
-to be perfectly satisfactory, there are not wanting signs that minor chords are 
-perceived by the mind as sustaining the same relations when reckoned from 
-above downward, that the major chords do when reckoned from below up- 
-ward. I have already pointed out that the phenomenon of sympathetic vibra- 
-tions gives us the series of undertones. The phenomenon of jarring tones 
-belongs to the same category. If a tuning-fork in vibration be set lightly 
-(not firmly) on a sounding board, or if a loosely-fastened metallic plate be 
-set violently vibrating, we hear, not the fundamental tone of the plate or fork, 
-but its under octave, under twelfth, even the under double octave, under 
-seventeenth, of other low undertone. But it is indeed probable that every 
-tone always generates not only a series of overtones, but a series of undertones 
+But as we do not account for the major chord by the combination-tones
+alone, but regard the phenomenon of overtones as the real explanation of it,
+so, in order to explain the minor chord to our perfect satisfaction, we require
+a corresponding _phenomenon_ of undertones, to set over against the overtones.
+Although such a phenomenon has not yet been sufficiently well established
+to be perfectly satisfactory, there are not wanting signs that minor chords are
+perceived by the mind as sustaining the same relations when reckoned from
+above downward, that the major chords do when reckoned from below up-
+ward. I have already pointed out that the phenomenon of _sympathetic vibra_- 
+_tions_ gives us the series of undertones. The phenomenon of _jarring_ tones
+belongs to the same category. If a tuning-fork in vibration be set lightly
+(not firmly) on a sounding board, or if a loosely-fastened metallic plate be
+set violently vibrating, we hear, _not the fundamental tone_ of the plate or fork,
+but its under octave, under twelfth, even the under double octave, under
+seventeenth, of other low undertone. But it is indeed probable that every
+tone _always_ generates not only a series of _overtones_, but a series of _undertones_
 also, decreasing in power in the direct ratio to their depth, and more difficult 
-to detect and separate from the mass of tones in our consciousness than are 
-the overtones. I have diligently collected all possible information on this 
-point, so far as the facts have been observed, and I find nothing inconsistent 
-with this hypothesis. (See my u Musikalische Logik," 1873, p. 12; "Die 
-objective existenz der undertone in der Schallwelle," 1875, printed separately 
-from the " Allgemeine Deutsche Musikzeitung ;" " Musikalisehe Syn taxis," 
-1877, preface and appendix, and the article on" UntertoW in my " Musik- 
-Lexikon.") 
+to detect and separate from the mass of tones in our consciousness than are
+the overtones. I have diligently collected all possible information on this
+point, so far as the facts have been observed, and I find nothing inconsistent
+with this hypothesis. (See my “Musikalische Logik,” 1873, p. 12; “Die
+objective existenz der undertöne in der Schallwelle,” 1875, printed separately
+from the “Allgemeine Deutsche Musikzeitung;” “Musikalische Syntaxis,”
+1877, preface and appendix, and the article on “Untertöne” in my ”Musik- 
+Lexikon.”)
 
-^But whatever any one may think of this or that opinion of mine, thus much 
-remains certain: The major and minor chords are, as regards their mathemat- 
-ical and acoustical relations, the polar opposites of each other. The further 
+But whatever any one may think of this or that opinion of mine, thus much
+remains certain: _The major and minor chords are, as regards their mathemat_- 
+_ical and acoustical relations, the polar opposites of each other_. The further 
 question is, whether the physiology of hearing, and the psychology of musical 
 
 ---
