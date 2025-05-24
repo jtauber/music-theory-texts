@@ -435,41 +435,41 @@ monies, and to discover the laws of harmonic succession. Rameau laid down
 
 ---
 
-the principle that the fundamental basses ought to progress only by perfect fifths 
-(or fourths), or in thirds (major or minor). If this rule hardly suffices for the 
-requirements of modern harmony, it contains, at least, the most important 
-principle of criticism, in that it acknowledges the validity of third-rel&tion- 
-ships equally with the //^-relationships. 
+the principle that _the fundamental basses ought to progress only by perfect fifths_
+(_or fourths_), _or in thirds_ (_major or minor_). If this rule hardly suffices for the
+requirements of modern harmony, it contains, at least, the most important
+principle of criticism, in that it acknowledges the validity of _third_-relation- 
+ships equally with the _fifth_-relationships.
 
-Thus it will be seen that Rameau was rich in suggestions pointing toward 
-a rational system of harmony. But the adjective " rational " cannot be 
-applied to his system as a whole. He did, indeed, found the major chord on 
-a rational phenomenon of acoustics, and his derivation of the diminished 
-triad and of the major chord with a major sixth, showed great clearness of 
-perception. But these are isolated phenomena in a scheme which must, in 
-other respects, be characterized as arbitrary. The system itself would 
-remain essentially the same if these ideas were subtracted from it. But that 
-in his system which was really new and peculiar to it was the simplification 
-of the thoroughbass system by his new doctrine of inversions. This doctrine 
-had a direct and permanent influence on the future development of har- 
-mony ; we find it adopted in the systems of Calegari, who died' in 1740 
-("Trattato del sistema armonico di F. A. Calegari," first published by 
-Balbi in 1829) ; of Vallottl (" Delia scienza teorica e pratica della moderna 
-musica," 1779) ; of Kir nb erg er (" Die Kunst des reinen Satzes," 1774-9) ; of 
-the Abbe Vogler (" Handbuch der Harmonielehre," 1802), and of all suc- 
-ceeding writers. The weak point of Ranieau's system, the inconsistency of 
-its relations to acoustic science, was very soon remarked. Vallotti gave up 
-the one-sided attempt to base the major chord on a phenomenon of acoustics, 
-and developed the diatonic scale from the higher overtones, among which he 
-found not only the major but the minor chord. D'Alembert, in his "Ele- 
-ments de musique theorique et pratique, suivant des principes de M. Rameau," 
-(1752), had, in the meantime, pointed out that the overtones noticed by 
-Rameau, viz., the twelfth and the seventeenth, were not the only ones, but 
-only the most prominent of a numerous series, which diminished in power 
-the higher they went. He also called attention to the fact that these over- 
-tones corresponded to Zarlino's harmonic divisions of the length of the string 
-producing them ; and that, as regards their vibration-numbers, they stood in 
-the ratios of the series of numbers 1, 2, 3, 4, 5, 6, 7, and so -on, thus : — 
+Thus it will be seen that Rameau was rich in suggestions pointing toward
+a rational system of harmony. But the adjective “rational” cannot be
+applied to his system as a whole. He did, indeed, found the major chord on
+a rational phenomenon of acoustics, and his derivation of the diminished
+triad and of the major chord with a major sixth, showed great clearness of
+perception. But these are isolated phenomena in a scheme which must, in
+other respects, be characterized as arbitrary. The system itself would
+remain essentially the same if these ideas were subtracted from it. But that
+in his system which was really new and peculiar to it was the simplification
+of the thoroughbass system by his new doctrine of inversions. This doctrine
+had a direct and permanent influence on the future development of har-
+mony; we find it adopted in the systems of _Calegari_, who died in 1740
+(“Trattato del sistema armonico di F. A. Calegari,” first published by
+Balbi in 1829); of _Vallotti_ (“Della scienza teorica e pratica della moderna
+musica,” 1779); of _Kirnberger_ (“Die Kunst des reinen Satzes,” 1774-9); of
+the _Abbé Vogler_ (“Handbuch der Harmonielehre,” 1802), and of all suc-
+ceeding writers. The weak point of Rameau’s system, the inconsistency of
+its relations to acoustic science, was very soon remarked. Vallotti gave up
+the one-sided attempt to base the major chord on a phenomenon of acoustics,
+and developed the _diatonic scale_ from the higher overtones, among which he
+found not only the major but the minor chord. D’Alembert, in his “_Elé_-
+_ments de musique théorique et pratique, suivant des principes de M. Rameau_,”
+(1752), had, in the meantime, pointed out that the overtones noticed by
+Rameau, viz., the twelfth and the seventeenth, were not the only ones, but
+only the most prominent of a numerous series, which diminished in power
+the higher they went. He also called attention to the fact that these over-
+tones corresponded to Zarlino’s harmonic divisions of the length of the string
+producing them; and that, as regards their vibration-numbers, they stood in
+the ratios of the series of numbers 1, 2, 3, 4, 5, 6, 7, and so -on, thus:—
 
 ---
 
