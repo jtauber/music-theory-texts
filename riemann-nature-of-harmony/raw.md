@@ -473,38 +473,38 @@ the ratios of the series of numbers 1, 2, 3, 4, 5, 6, 7, and so -on, thus:—
 
 ---
 
-The notes marked with a star are somewhat lower than the corresponding notes of our tempered system 
+The notes marked with a star are somewhat lower than the corresponding notes of our tempered system.
 
 
-Vallotti found the scale between the eighth and sixteenth overtones, the 
-major chord in 4 : 5 : 6, and the minor chord in 10 : 12 : f5. But this did 
-not account for the consonance; this element consists, according to Rameau, 
-in the fact that we conceive the tones of the chord as belonging to the funda- 
-mental ; g and e' are consonant with c because they resolve or find their 
-point of repose in it. But we cannot conceive e", g", b", as belonging to c 
-without destroying the consonance. 
+Vallotti found the scale between the eighth and sixteenth overtones, the
+major chord in 4:5:6, and the minor chord in 10:12:15. But this did
+not account for the _consonance_; this element consists, according to Rameau,
+in the fact that we conceive the tones of the chord as _belonging_ to the funda-
+mental; g and e′ are consonant with c because they resolve or find their
+point of repose in it. But we cannot conceive e″, g″, b″, as belonging to c
+without destroying the consonance.
 
-Kirnberger accepted the overtones as an explanation of the major conso- 
-nant chord ; paid no attention to the inconsistency involved in not carrying 
-it out further ; gave up Rameau's explanation of the diminished triad and of 
-the major chord with an added sixth, and held to the thoroughbass system 
-of figuring the inversions. He saw no need of any alterations in the system ; 
-he regarded the major, minor and diminished triads as equally justified and 
-well-founded, and he accepted, besides, these four kinds of seventh-chords as 
-normal harmonies, viz., major chords with major and minor sevenths, and 
-minor and diminished chords with minor sevenths. Kirnberger's system has 
-maintained itself in practical instruction books, with no essential modifica- 
-tions, to the present day. Since Rameau, the sole criterion for distinguishing 
-normal chords, inversions and suspensions has been the formation by thirds ; 
-i. e., chords which form a series of thirds above the bass note have been 
-regarded as normal ; those which are formed in the same way, but have some 
-other tone than the root in the bass, have been regarded as inversions ; and, 
-finally, those which could not be resolved into a series of thirds have been 
-regarded as accidental formations, — as suspensions. This building up of 
-thirds into chords was carried beyond sevenths, to ninths, elevenths and 
-thirteenths, although they had to be used, practically, in elliptical forms. 
-J. H. Knecht, especially, carried these monstrous chords to extremes; but j 
-there was soon a reaction from this, and the chord of the ninth became the 
+Kirnberger accepted the overtones as an explanation of the major conso-
+nant chord; paid no attention to the inconsistency involved in not carrying
+it out further; gave up Rameau's explanation of the diminished triad and of
+the major chord with an added sixth, and held to the thoroughbass system
+of figuring the inversions. He saw no need of any alterations in the system;
+he regarded the major, minor and diminished triads as equally justified and
+well-founded, and he accepted, besides, these four kinds of seventh-chords as
+normal harmonies, viz., major chords with major and minor sevenths, and
+minor and diminished chords with minor sevenths. Kirnberger’s system has
+maintained itself in practical instruction books, with no essential modifica-
+tions, to the present day. _Since Rameau, the sole criterion for distinguishing_ 
+_normal chords, inversions and suspensions has been the_ <sc>formation by thirds</sc>;
+_i. e._, chords which form a series of thirds above the bass note have been
+regarded as normal; those which are formed in the same way, but have some
+other tone than the root in the bass, have been regarded as inversions; and,
+finally, those which could not be resolved into a series of thirds have been
+regarded as accidental formations,—as suspensions. This building up of
+thirds into chords was carried beyond sevenths, to ninths, elevenths and
+thirteenths, although they had to be used, practically, in elliptical forms.
+J. H. Knecht, especially, carried these monstrous chords to extremes; but
+there was soon a reaction from this, and the chord of the ninth became the
 
 ---
 
