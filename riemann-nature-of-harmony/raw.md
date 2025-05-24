@@ -495,7 +495,7 @@ normal harmonies, viz., major chords with major and minor sevenths, and
 minor and diminished chords with minor sevenths. Kirnberger’s system has
 maintained itself in practical instruction books, with no essential modifica-
 tions, to the present day. _Since Rameau, the sole criterion for distinguishing_ 
-_normal chords, inversions and suspensions has been the_ ғᴏʀᴍᴀᴛɪᴏɴ ʙʏ ᴛʜɪʀᴅs;
+_normal chords, inversions and suspensions has been the_ ꜰᴏʀᴍᴀᴛɪᴏɴ ʙʏ ᴛʜɪʀᴅs;
 _i. e._, chords which form a series of thirds above the bass note have been
 regarded as normal; those which are formed in the same way, but have some
 other tone than the root in the bass, have been regarded as inversions; and,
@@ -711,41 +711,41 @@ are set in vibration by sound waves, according to the laws of sympathetic
 
 ---
 
-vibrations, and communicate these to the auditory nerve. The whole appa- 
-ratus is of microscopic dimensions. This hypothesis has not yet been pro- 
-ductive of any positive results as regards the theory of music. Indeed, it is 
-not yet wholly beyond doubt whether it means positive results even in the 
-field of natural science. 
+vibrations, and communicate these to the auditory nerve. The whole appa-
+ratus is of microscopic dimensions. This hypothesis has not yet been pro-
+ductive of any positive results as regards the theory of music. Indeed, it is
+not yet wholly beyond doubt whether it means positive results even in the
+field of natural science.
 
-But the most vulnerable chapter of Helmholtz's book is that on the nature 
-of consonance and dissonance. These conceptions Helmholtz seeks to explain 
-from the standpoint of physiology, as consisting merely in differences of 
-euphony. He thinks dissonance consists in the presence of " beats," i. e., in 
-the regular and rapid recurrence of reinforcements of tone, producing dis- 
-turbance. (See Tyndall, on Sound, or any book on Acoustics, Tr.) Conso- 
-nance he defines as consisting in the absence of beats, or in the reduction of 
-them to a minimum. The major chord is more nearly free from beats than 
-any other ; the minor chord has more elements which disturb the consonance 
+But the most vulnerable chapter of Helmholtz’s book is that on the nature
+of consonance and dissonance. These conceptions Helmholtz seeks to explain
+from the standpoint of physiology, as consisting merely in differences of
+euphony. He thinks dissonance consists in the presence of “beats,” _i. e._, in
+the regular and rapid recurrence of reinforcements of tone, producing dis-
+turbance. (See Tyndall, on Sound, or any book on Acoustics, Tʀ.) Conso-
+nance he defines as consisting in the absence of beats, or in the reduction of
+them to a minimum. The major chord is more nearly free from beats than
+any other; the minor chord has more elements which disturb the consonance
 from a physiological point of view. Starting with the major
 chord, as shown in the relations of the first six overtones,
 which offers fewest disturbances, there can be established a
 regularly diminishing scale of euphony, measured by the
-standard of beats, down to the harshest dissonances, and the discords most 
-unavailable for musical purposes. So that, on his principles, neither major 
-and minor consonances nor consonances and dissonances have any other 
-characteristic distinction than a difference of degrees of euphony. 
+standard of beats, down to the harshest dissonances, and the discords most
+unavailable for musical purposes. So that, on his principles, neither major
+and minor consonances nor consonances and dissonances have any other
+characteristic distinction than a difference of degrees of euphony.
 
-This result is very unsatisfactory, and has already been violently contro- 
-verted. Professor Arthur von Oettingen especially, in his "Harmonic- 
-system in dualer Entwickelung" (1866), insisted that there must be a radical 
-difference in principle between major and minor. This difference he found 
-in conceiving the one form of consonance as the polar opposite of the other. 
-That is, he construed the minor consonance as the direct antipode of the 
-other, in the mode already explained ; and he carried out this contrast con- 
-sistently in his doctrine of scales and chords. He pointed out the truth that 
-the minor consonance is not in the least inferior to the major consonance in 
-euphony, when we consider it as resulting from the undertone series, just as 
-the major consonance results from the overtone series. The minor chord is 
+This result is very unsatisfactory, and has already been violently contro-
+verted. Professor Arthur von Oettingen especially, in his “Harmonic-
+system in dualer Entwickelung” (1866), insisted that there must be a radical
+difference in principle between major and minor. This difference he found
+in conceiving the one form of consonance as the polar opposite of the other.
+That is, he construed the minor consonance as the direct antipode of the
+other, in the mode already explained; and he carried out this contrast con-
+sistently in his doctrine of scales and chords. He pointed out the truth that
+the minor consonance is not in the least inferior to the major consonance in
+euphony, when we consider it as resulting from the _undertone_ series, just as
+the major consonance results from the _overtone_ series. The minor chord is
 
 ---
 
