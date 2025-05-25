@@ -931,42 +931,42 @@ acknowledged this, it seems of very little account whether the minor chord
 
 ---
 
-can be based on acoustic facts or not. The psychological fact that we con- 
-ceive single tones in the sense of chords remains. We can imagine any 
-given tone as representing three major and three minor chords ; we can 
-think of it as principal tone, third or fifth of either a major or minor chord. 
-It is no more difficult for us to imagine a given e, for example, as principal 
-tone of its under-chord (a-c-e), or as under-fifth of the under-chord of f 
-(e-g-b),or as third of the under-chord of g# (c-e-g#), than it is to imagine 
-it as root of its over-chord (e-gjf-b) or as fifth of an over-chord (a-c#-e) or 
-as third of c over-chord, (c-e-g). There are no other chords for which we 
-can use the tone e as a substitute or representative in imagination. Where- 
-ever else it occurs, it must be a dissonaut, disturbing element; e. g. as seventh 
-in the chord of f'# major, as an added sixth to the chord of g major, etc. 
+can be based on acoustic facts or not. The psychological fact that we con-
+ceive single tones in the sense of chords remains. We can imagine any
+given tone as representing three major and three minor chords; we can
+think of it as principal tone, third or fifth of either a major or minor chord.
+It is no more difficult for us to imagine a given e, for example, as principal
+tone of its under-chord (a-c-e), or as under-fifth of the under-chord of f
+(e-g-b), or as third of the under-chord of g♯ (c-e-g♯), than it is to imagine
+it as root of its over-chord (e-g♯-b) or as fifth of an over-chord (a-c♯-e) or
+as third of c over-chord, (c-e-g). There are no other chords for which we
+can use the tone e as a substitute or representative in imagination. Where-
+ever else it occurs, it must be a dissonaut, disturbing element; _e. g._ as seventh
+in the chord of f♯ major, as an added sixth to the chord of g major, etc.
 
-This latest advance in scientific knowledge has transformed the science of 
-Harmony from a doctrine of the mathematical relations of musical inter- 
-vals to a doctrine of mental tone-representations and their connections. 
-Acoustics and the physiology of hearing are remanded to their proper place 
-of auxiliary sciences, the place which belongs to them, and which they have 
-always occupied in the estimation of musicians. It is a revolution which 
-the musician is glad to see, for he is familiar with mental representations of 
-tones and chords, and he instantly comprehends a theory based on them, as 
-soon as its terminology is familiar ; while he feels a great gulf fixed between 
-the calculations of the physicist, or the nerve affections of the physiologist 
-on the one hand, and his musical conceptions on the other. This very gulf 
-separates Parts II and III of Helmholtz's " Lehre von der Tonempfindungen." 
-Part III is clear and lucid, full of genuine musical intelligence; Part II 
-strives in vain to connect itself with real music, and its sole result is the above 
-mentioned imperfect explanation of consonance and dissonance. 
+This latest advance in scientific knowledge has transformed the science of
+Harmony from a doctrine of the mathematical relations of musical inter-
+vals to a doctrine of mental tone-representations and their connections.
+Acoustics and the physiology of hearing are remanded to their proper place
+of auxiliary sciences, the place which belongs to them, and which they have
+always occupied in the estimation of musicians. It is a revolution which
+the musician is glad to see, for he is familiar with mental representations of
+tones and chords, and he instantly comprehends a theory based on them, as
+soon as its terminology is familiar; while he feels a great gulf fixed between
+the calculations of the physicist, or the nerve affections of the physiologist
+on the one hand, and his musical conceptions on the other. This very gulf
+separates Parts II and III of Helmholtz’s “Lehre von der Tonempfindungen.”
+Part III is clear and lucid, full of genuine musical intelligence; Part II
+strives in vain to connect itself with real music, and its sole result is the above
+mentioned imperfect explanation of consonance and dissonance.
 
-The mistake which Helmholtz made, is now easy to recognize. He tried 
-to explain from the nature of sounding bodies conceptions which can only 
-be explained from the nature of the perceiving mind. Consonance and dis- 
-sonance are musical conceptions — not definite forms of sound-waves. But it 
-must not be forgotten that the recognition of this truth was only possible 
-after long-continued investigations in physics and physiology. It was neces- 
-sary first to make clear that physics and physiology could never suffice as a 
+The mistake which Helmholtz made, is now easy to recognize. He tried
+to explain from the nature of sounding bodies conceptions which can only
+be explained from the nature of the perceiving mind. Consonance and dis-
+sonance are _musical_ conceptions—not definite forms of sound-waves. But it
+must not be forgotten that the recognition of this truth was only possible
+after long-continued investigations in physics and physiology. It was neces-
+sary first to make clear that physics and physiology could never suffice as a
 
 ---
 
