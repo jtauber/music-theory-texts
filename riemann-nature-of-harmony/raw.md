@@ -69,7 +69,7 @@ The oldest portion of our exact scientific knowledge in connection with
 harmony is that investigation into the nature of sounding bodies which
 produced _the mathematical definitions of the consonant intervals_. These defi-
 nitions are ascribed to Pythagoras; but are, without doubt, much older than
-he. The well-known legend about the blacksmith's hammers of different
+he. The well-known legend about the blacksmith’s hammers of different
 weights, which led Pythagoras to the discovery of the relative numerical
 proportions of the intervals, is physically false as to its central fact. Py-
 thagoras very likely got his facts about intervals, as determined by measur-
@@ -167,7 +167,7 @@ point, the scries of tones represented by the lengths, 1:1/2:1/3:
 1/4:1/5:1/6 will correspond to the tones c, c′, g′,
 c″, e″, g″; that is to say, tones all of which belong to the
 major chord of c. On the other hand, if we start with the
-tone g", the series 1:2:3:4:5:6 will represent the tones
+tone g″, the series 1:2:3:4:5:6 will represent the tones
 g″, g′, c′, g, e♭, c; that is, tones all of which belong to the minor chord
 below g (= c minor). Let us write both out, thus:
 
@@ -176,7 +176,7 @@ _exact opposite of the major chord_. In fact, he uses the terms “Divisione
 harmonica” and “Divisione aritmetica” as meaning major and minor chord
 respectively. Whether Zarlino made this happy discovery himself, does not
 appear; but I know of no older theorist who has mentioned it. Unfortu-
-nately, this splendid idea of Zarlino's came to naught; whether it remained
+nately, this splendid idea of Zarlino’s came to naught; whether it remained
 unnoticed or whether it was not understood, no matter; it disappeared for
 full two hundred years, and was then re-discovered by Tartini.
 
@@ -220,7 +220,7 @@ interval. As late as 1547, Glarean was of the opinion that a “discant” was
 a doubling of several voice-parts moving in different keys, so that, for
 example, in the same piece the bass might be in an “authentic” mode, and
 
-\* In my “Studien zur Geschichte der Notenschrift” (Chap. III, "The Revolution from the Conception in
+\* In my “Studien zur Geschichte der Notenschrift” (Chap. III, “The Revolution from the Conception in
 a Minor Sense to that in a Majur Sense”), I have shown in detail that the ancients and also the Arabs invari-
 ably conceived tone relations from above downward, and that, in the middle ages, this conception was gradu-
 ally changed to the reverse, as it is now.
@@ -306,7 +306,7 @@ by 6; the chord of the sixth and fourth by 6/4; the chord of the seventh by 7;
 the chord of the sixth and fifth by 6/5, etc. That the chord of the sixth is an
 inversion of the common chord, and that of the sixth and fifth an inversion
 of the chord of the seventh, was not noticed by anybody till 150 years later.
-Zarlino's ideas on this matter had, in the meantime, been wholly forgotten.
+Zarlino’s ideas on this matter had, in the meantime, been wholly forgotten.
 
 After the thoroughbass system got into print, as it did, in the works of
 some Italian composers, toward the year 1600, it spread like wild-fire all
@@ -353,7 +353,7 @@ Rameau was too good a musician not to know that to deduce the _major_
 consonant chord only from an acoustic phenomenon was not sufficient to
 build up a scientific system of harmony. But his attempts to discover a
 corresponding phenomenon which should account for the _minor_ consonant
-chord, were all in vain. Whether he started out with Zarlino's _mathematical_
+chord, were all in vain. Whether he started out with Zarlino’s _mathematical_
 explanation of the opposite principles of major and minor we do not know.
 But he did try to find a series of _undertones_ corresponding to the _overtones_,
 to account for the minor chord. He discovered that those strings _of which_ 
@@ -486,7 +486,7 @@ without destroying the consonance.
 
 Kirnberger accepted the overtones as an explanation of the major conso-
 nant chord; paid no attention to the inconsistency involved in not carrying
-it out further; gave up Rameau's explanation of the diminished triad and of
+it out further; gave up Rameau’s explanation of the diminished triad and of
 the major chord with an added sixth, and held to the thoroughbass system
 of figuring the inversions. He saw no need of any alterations in the system;
 he regarded the major, minor and diminished triads as equally justified and
@@ -512,7 +512,7 @@ extreme limit of the chords acknowledged as normal; even this being
 coupled with certain conditions.
 
 I have already mentioned that Tartini, the renowned violinist, revived
-Zarlino's idea of the dual nature of harmony, after two hundred years of
+Zarlino’s idea of the dual nature of harmony, after two hundred years of
 oblivion.*
 
 It is not impossible that Tartini had thoroughly studied and understood
@@ -766,7 +766,7 @@ on a difference of principle between major and minor, and between conso-
 nance and dissonance. He even thought the difference between different
 kinds of dissonances must be something more than difference in degrees of
 euphony. Since then a number of musico-theoretical writings have been
-published, in which those points of Helmholtz's doctrine criticised by von
+published, in which those points of Helmholtz’s doctrine criticised by von
 Oettingen and Lotze have been attacked from different standpoints. These
 writings take von Oettingen’s well-nigh complete system as a starting-point
 for further investigation, and seek to solve those problems which are still
