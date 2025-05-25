@@ -221,7 +221,7 @@ a doubling of several voice-parts moving in different keys, so that, for
 example, in the same piece the bass might be in an “authentic” mode, and
 
 \* In my “Studien zur Geschichte der Notenschrift” (Chap. III, “The Revolution from the Conception in
-a Minor Sense to that in a Majur Sense”), I have shown in detail that the ancients and also the Arabs invari-
+a Minor Sense to that in a Major Sense”), I have shown in detail that the ancients and also the Arabs invari-
 ably conceived tone relations from above downward, and that, in the middle ages, this conception was gradu-
 ally changed to the reverse, as it is now.
 
