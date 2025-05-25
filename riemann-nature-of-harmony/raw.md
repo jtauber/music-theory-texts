@@ -970,43 +970,43 @@ sary first to make clear that physics and physiology could never suffice as a
 
 ---
 
-foundation for musical conceptions, before psychology could take its rightful 
-place. We know now that there are no absolute consonances ; that a conf- 
-bination of tones acoustically and physiologically free from disturbing 
-elements, may nevertheless be a dissonance, musically speaking. The j| 
-chord is an example. 
+foundation for musical conceptions, before psychology could take its rightful
+place. We know now that there are no _absolute_ consonances; that a com-
+bination of tones acoustically and physiologically free from disturbing
+elements, may nevertheless be a _dissonance_, musically speaking. The 6/4
+chord is an example.
 
-Lest I extend this sketch beyond reasonable limits, I must be brief now, 
+Lest I extend this sketch beyond reasonable limits, I must be brief now,
 and can only indicate in outline the form impressed on the doctrine of 
 Harmony by the conception of chord substitution. 
 
-As long a§ a tone seems to have no definite relation to a chord, we have 
-in the mind only the simple representation of a single tone ; the idea is 
-empty and unsatisfactory ; it embraces at most only the lower and upper 
-octaves of the single tones in addition to it. But we very seldom think tones 
-in this unrelated way. When a piece begins with a single tone, we are apt to 
-think of it as principal tone of a chord, either major or minor. But the 
-harmonic sense of an interval is much more definite. A single tone may be 
-conceived of as occupying any one of six different relations; but a conso- 
-nant interval can only be thought in two. Thus c-g must be conceived as 
-representing either c over-chord or g^under-chord. It cannot belong to any 
-other consonant chord ; ancTwe do not naturally conceive it as a dissonance 
-unless some tone or tones are added which belong to a different chord. 
+As long as a tone seems to have no definite relation to a chord, we have
+in the mind only the simple representation of a single tone; the idea is
+empty and unsatisfactory; it embraces at most only the lower and upper
+octaves of the single tones in addition to it. But we very seldom think tones
+in this unrelated way. When a piece begins with a single tone, we are apt to
+think of it as principal tone of a chord, either major or minor. But the
+harmonic sense of an _interval_ is much more definite. A single tone may be
+conceived of as occupying any one of six different relations; but a conso-
+nant interval can only be thought in _two_. Thus c-g must be conceived as
+representing either c over-chord or g under-chord. It cannot belong to any
+other consonant chord; and we do not naturally conceive it as a dissonance
+unless some tone or tones are added which belong to a different chord.
 
-But even the idea of a consonant chord is not final, but is capable of 
-further definition. If we imagine the chord of C major, as belonging in the 
-key of F major, or G major, or C major, the chord is conceived differently in 
-each case. Helmholtz rightly observed (Tonempfindungen, 4th edition, p. 
-471) that a chord, in order to close a piece satisfactorily, must be not merely 
-a consonant chord, but the tonic chord. But when Helmholtz goes on to say 
-that former theorists have not been perfectly clear on this point, I must 
-except Tartini, who, in his Trattato (p. 112), insists that all the tones of a 
-key are dissonances except those which belong to the tonic chord. In other 
-words, the only consonant chord in any* key, in the strictest sense of the term, 
-te the tonic chord. That is, the tonic is the only chord which can be used for 
-the final point of repose; the only,one which does not distinctly require a 
-further progression. In c major, it is the chord c-e-g ; in g major, g-b-d ; 
-in a minor, a-c-e, etc. In c major, the chord of g is not a perfect conso- 
+But even the idea of a consonant chord is not _final_, but is capable of
+further definition. If we imagine the chord of C major, as belonging in the
+key of F major, or G major, or C major, the chord is conceived differently in
+each case. Helmholtz rightly observed (Tonempfindungen, 4th edition, p.
+471) that a chord, in order to close a piece satisfactorily, must be not merely
+a _consonant_ chord, but the _tonic_ chord. But when Helmholtz goes on to say
+that former theorists have not been perfectly clear on this point, I must
+except Tartini, who, in his _Trattato_ (p. 112), insists that all the tones of a
+key are dissonances except those which belong to the tonic chord. In other
+words, _the only consonant chord_ in any key, in the strictest sense of the term,
+_is the tonic chord_. That is, the tonic is the only chord which can be used for
+the final point of repose; the only one which does not distinctly require a
+further progression. In c major, it is the chord c-e-g; in g major, g-b-d;
+in a minor, a-c-e, etc. In c major, the chord of g is not a perfect conso-
 
 ---
 
