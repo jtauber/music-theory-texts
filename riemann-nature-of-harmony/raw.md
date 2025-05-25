@@ -1088,32 +1088,32 @@ _never intelligible in and of themselves_, but must always be understood _in the
 
 ---
 
-sense of a consonance. This is true whether the dissonance consists in adding 
-a dissonant tone to a consonant chord, as in chords of the seventh, sixth and 
-ninth ; in the substitution for a tone belonging to the chord, of a foreign tone 
-which leads to it, as in the case of suspensions ; or in the chromatic alteration 
-of a note of a chord, for the purpose of leading up to a tone of the succeeding 
-chord (altered chords). Instead of looking upon discords as mere modifica- 
-tions of concords, theorists to this day regard discords as independent chord 
-formations, equally well founded and justifiable with the major and minor 
-concords. The blame for this belongs to Kirnberger, who failed to under- 
-stand and carry out Rameau's notions as to discords being derived from 
-concords, and stuck to the old chord classification of the thoroughbass 
-system, which could not possibly be accommodated to the needs of progress 
-in harmonic intelligence. 
+_sense of a consonance_. This is true whether the dissonance consists in adding
+a dissonant tone to a consonant chord, as in chords of the seventh, sixth and
+ninth; in the substitution for a tone belonging to the chord, of a foreign tone
+which leads to it, as in the case of suspensions ; or in the chromatic alteration
+of a note of a chord, for the purpose of leading up to a tone of the succeeding
+chord (altered chords). Instead of looking upon discords as mere modifica-
+tions of concords, theorists to this day regard discords as independent chord
+formations, equally well founded and justifiable with the major and minor
+concords. The blame for this belongs to Kirnberger, who failed to under-
+stand and carry out Rameau’s notions as to discords being derived from
+concords, and stuck to the old chord classification of the thoroughbass
+system, which could not possibly be accommodated to the needs of progress
+in harmonic intelligence.
 
-If the theory of harmony, which I have here sketched, should ever be fully 
-worked out into a complete system, then the study of harmony will become 
-a real exercise in music-thinking. The simple will, of itself, point the way 
-to the more complex, and will stimulate the learner boldly to venture on the 
-new, rather than, as heretofore, to seek the new. In my " Musical Syntax," 
-and my " Sketch of a New Method of Teaching Harmony," I have attempted 
-a detailed system. Especially in the former, I have tried to establish com- 
-prehensive points of view for the construction of complete harmonic wholes. 
-But in closing I wish to emphasize once more, that however much may be 
-found new in the external apparatus of my presentation, in machinery or 
-treatment, the leading points of view, the fundamental ideas, are not to be 
-credited to me. So far as they cannot be referred back to older theorists, 
-especially to Kameau, they belong to the three greatest promoters of intelli- 
-gence, as regards the essential nature of harmony : Moritz Hauptmann, 
-Heinrich Helmholtz and Arthur von Oettingen. 
+If the theory of harmony, which I have here sketched, should ever be fully
+worked out into a complete system, then the study of harmony will become
+a real exercise in music-thinking. The simple will, of itself, point the way
+to the more complex, and will stimulate the learner boldly to venture on the
+new, rather than, as heretofore, to _seek_ the new. In my “Musical Syntax,”
+and my “Sketch of a New Method of Teaching Harmony,” I have attempted
+a detailed system. Especially in the former, I have tried to establish com-
+prehensive points of view for the construction of complete harmonic wholes.
+But in closing I wish to emphasize once more, that however much may be
+found new in the external apparatus of my presentation, in machinery or
+treatment, the leading points of view, the fundamental ideas, are not to be
+credited to me. So far as they cannot be referred back to older theorists,
+especially to Rameau, they belong to the three greatest promoters of intelli-
+gence, as regards the essential nature of harmony: Moritz Hauptmann,
+Heinrich Helmholtz and Arthur von Oettingen.
