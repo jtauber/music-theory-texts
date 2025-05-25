@@ -1049,42 +1049,42 @@ chord in a key is related to the accessory chords (chords of the fifths, thirds,
 
 ---
 
-etc.), so the principal key of a piece is related to the accessory keys which 
-occur in it (the key of the fifth above and below, the third above and below, 
-etc.). In a piece in c major, the key of g major plays much the same part 
-that a chord of g major does in a short cadence in the key of c, or that the 
-tone of g does in an arpeggio on the chord of c, or that the tones b and d do 
-in the scale of c. That is, the effect in all these cases is dissonant; it has 
-no justification in itself, independent of its relation to something else ; its 
-justification is conditioned, said it can lay no claim to permanent duration. 
+etc.), so the principal key of a piece is related to the accessory keys which
+occur in it (the key of the fifth above and below, the third above and below,
+etc.). In a piece in c major, the _key_ of g major plays much the same part
+that a _chord_ of g major does in a short cadence in the key of c, or that the
+tone of g does in an arpeggio on the chord of c, or that the tones b and d do
+in the scale of c. That is, the effect in all these cases is _dissonant_; it has
+no justification in itself, independent of its relation to something else ; its
+justification is _conditioned_, said it can lay no claim to permanent duration.
 
-Thus the fundamental laws of chord- succession, as well as of the succession 
-of keys (Modulation) may be deduced directly from the extension of these 
-simplest musical conceptions, consonance and dissonance. Psychology 
-teaches us that different conceptions cannot maintain themselves at the same 
-time in consciousness on a footing of equality ; one must dominate, and the 
-others will seem to contradict or disturb it. This doctrine proves true in the 
-fullest sense in the case of musical ideas ; it furnishes the data for a true 
-definition of consonance and dissonance, such as the physicists and physiolo- 
-gists in vain attempt to formulate. By means of it we discover not only the 
-difference in principle between consonance and dissonance, but also the 
-qualitative difference between the different kinds of dissonances which Lotze 
-demanded. 
+Thus the fundamental laws of chord succession, as well as of the succession
+of keys (Modulation) may be deduced directly from the extension of these
+simplest musical conceptions, consonance and dissonance. Psychology
+teaches us that different conceptions cannot maintain themselves at the same
+time in consciousness on a footing of equality; one must dominate, and the
+others will seem to contradict or disturb it. This doctrine proves true in the
+fullest sense in the case of musical ideas; it furnishes the data for a true 
+definition of consonance and dissonance, such as the physicists and physiolo-
+gists in vain attempt to formulate. By means of it we discover not only the
+difference in principle between consonance and dissonance, but also the
+qualitative difference between the different kinds of dissonances which Lotze
+demanded.
 
-(Consonance is the perception of unity in the relation of the tones which 
-make up a chord. Dissonance is the perception of want of unity in the 
-chord; of the presence of elements belonging to other chords which disturb 
-the unity, which contradict the main sense of the chord. The two or more 
-chords which are always represented in a dissonant chord are not coordinate 
-in it, but one of them is chief, and the rest modify it. This modification will 
-differ, of course, according to the various relations of the chords rej)resented. 
-The experience of centuries has established that the tonic chord in a key 
-can only be a major or a minor chord. This we may easily confirm at any 
-time by psychological experiment, and must, therefore, regard it as a natural 
-law. No diminished chord, chord of the seventh, or any^kind of dissonance 
-can possibly serve as principal chord of a key. It is strange, therefore, that 
-theorists did not long ago arrive at the conclusion that dissonant chords are 
-yicver intelligible in and of themselves, but must always be understood in thf- 
+Consonance is the perception of unity in the relation of the tones which
+make up a chord. Dissonance is the perception of want of unity in the
+chord; of the presence of elements belonging to other chords which disturb
+the unity, which contradict the main sense of the chord. The two or more
+chords which are always represented in a dissonant chord are not _coördinate_
+in it, but one of them is chief, and the rest modify it. This modification will
+differ, of course, according to the various relations of the chords rej)resented.
+The experience of centuries has established that the tonic chord in a key
+can only be a major or a minor chord. This we may easily confirm at any
+time by psychological experiment, and must, therefore, regard it as a natural
+law. No diminished chord, chord of the seventh, or any kind of dissonance
+can possibly serve as principal chord of a key. It is strange, therefore, that
+theorists did not long ago arrive at the conclusion that dissonant chords are
+_never intelligible in and of themselves_, but must always be understood _in the_
 
 ---
 
