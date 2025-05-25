@@ -1010,42 +1010,42 @@ in a minor, a-c-e, etc. In c major, the chord of g is not a perfect conso-
 
 ---
 
-nance ; as is proved by this fact alone, viz., that the seventh, f, can be added 
-to it without any essential change in its harmonic significance, or even of its 
+nance; as is proved by this fact alone, viz., that the seventh, f, can be added
+to it without any essential change in its harmonic significance, or even of its
 acoustic relations. Nor is the chord of F major a true consonance in the 
-key of C; and a major sixth (d) may be added to it without any essential 
-change in the mental effect. The effect of these chords is dissonance-like ; or 
-better, the perception of them contains something which disturbs their con- 
-sonance; and this something is simply their relation to the chord of *C major. 
-For to think a chord in the sense of a certain key is to understand it as 
+key of C; and a major sixth (d) may be added to it without any essential
+change in the mental effect. The effect of these chords is _dissonance-like_; or
+better, the perception of them contains something which disturbs their con-
+sonance; and this something is simply their _relation_ to the chord of C major.
+For to think a chord in the sense of a certain key is to understand it as
 related to another chord; just as to think a tone in the sense of a certain 
-chord is to conceive it not as isolated, but as related to a principal tone, or 
-as principal tone itself in its relation to the others. When I imagine the 
-chord of c major as in the key of c major, then it is itself tonic, centre, point 
-of repose ; the idea of it involves nothing contradictory, nor any element 
-which disturbs its consonance; it is simple, pure, reposeful. But when I , 
-imagine the chord of g major as in the key of c, then I. think of it as the 
-chord of the over-fifth of the chord of c ; that is to say, the chord of c major 1 
-forms a part of the conception, as being the chord which determines the 
-significance of the chord of g — the chord from which the g chord is distin- 
-guished, and to which it is related. The central point of the idea, so to 
-speak, lies outside of the chord of g ; there is in that chord an element of 
-unrest ; we feel it necessary to go on to the chord of c as the only satisfactory * 
-point of repose. This element of dissatisfaction constitutes dissonance. 
+chord is to conceive it not as isolated, but as related to a principal tone, or
+as principal tone itself in its relation to the others. When I imagine the
+chord of c major as in the _key_ of c major, then it is itself tonic, centre, point
+of repose; the idea of it involves nothing contradictory, nor any element
+which disturbs its consonance; it is simple, pure, reposeful. But when I
+imagine the chord of g major as in the key of c, then I think of it as the
+chord of the over-fifth of the chord of c; that is to say, _the chord of c major_
+_forms a part of the conception_, as being the chord which determines the
+significance of the chord of g—the chord from which the g chord is distin-
+guished, and to which it is related. The central point of the idea, so to
+speak, _lies outside_ of the chord of g; there is in that chord an element of
+unrest; we feel it necessary to go on to the chord of c as the only satisfactory
+point of repose. This element of dissatisfaction constitutes dissonance.
 
-It is just so with the chord of F major, and with every other chord of the 
-key. This modern conception of key, or tonality, as we have come to call it, 
-to distinguish it from the old idea of key, is not confined to the scale. We 
-can imagine chords containing tones outside of the scale as being intimately 
-related to the tonic chord. This is especially true of the (major) chords of 
+It is just so with the chord of F major, and with every other chord of the
+key. This modern conception of key, or _tonality_, as we have come to call it,
+to distinguish it from the old idea of key, is not confined to the scale. We
+can imagine chords containing tones outside of the scale as being intimately
+related to the tonic chord. This is especially true of the (major) chords of
 the major third above and below the tonic (in c major, the chords of e major 
-and a|z major), and also of the minor third aboye and below (in C major, et? 
-major and a major). 
+and a♭ major), and also of the minor third above and below (in C major, e♭ 
+major and a major).
 
-The idea of tone relationship may be extended to the relation of keys to 
-one another. As the principal tone of a chord is related to its accessory 
-tones (the third and fifth, and more distantly related tones), and as the tonic 
-chord in a key is related to the accessory chords (chords of the fifths, thirds, 
+The idea of tone relationship may be extended to the relation of keys to
+one another. As the principal tone of a chord is related to its accessory
+tones (the third and fifth, and more distantly related tones), and as the tonic
+chord in a key is related to the accessory chords (chords of the fifths, thirds,
 
 ---
 
