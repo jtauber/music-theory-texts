@@ -406,7 +406,7 @@ fine was his harmonic sense is shown by two further peculiar-
 ities of his system: (1) By his conceiving the diminished
 chord as a dominant seventh chord with the root omitted,
 _e. g._, B-D-F as the chord with G omitted; and (2) by his 
-conceiving the chord in C major as the subdominant chord 
+conceiving the chord in C major as the _subdominant_ chord 
 with an added sixth, and not as the first inversion of the 
 supertonic chord with a seventh, as might have been expected, 
 and as is commonly done now. No musician will deny that 
