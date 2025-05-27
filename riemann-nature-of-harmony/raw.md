@@ -86,7 +86,7 @@ they being of the same weight and tension, their lengths are related as 1:2;
 or if they produce a fifth, as 2:3; or a fourth, as 3:4?” And certainly
 the composer derives no _direct_ benefit from knowing these facts; only the
 maker of instruments can apply them in his measurements, and the player in
-finding out how to stop his strings correctly. But, _indirectly_, we do gain a
+finding out how to stop his strings correctly. But, _indirectly_, we _do_ gain a
 great deal from knowing that two tones at the interval of an octave stand in
 the simplest of all mathematical relations to each other, and that this simple
 relation does (in some as yet unexplained way) make its impression on our
@@ -143,7 +143,7 @@ their theories on those of the Greek theorists, Didymus and Ptolemy, who,
 among other divisions of the fourth (tetra-chord), used the third (4:5)
 consisting of a major tone (8:9) and a minor tone (9:10). But although
 the Greeks did happen on this third, they never regarded or treated it as a
-_consonance_; _and neither_ Zarlino nor Fogliani had any occasion to disclaim
+_consonance; and neither_ Zarlino nor Fogliani had any occasion to disclaim
 the originality of their idea.
 
 But Zarlino went further. He gave to the world the conception of _the_ 
@@ -163,7 +163,7 @@ mining the pitch of the tones produced by the half, third, fourth, fifth and
 sixth of the string. By the “arithmetical” division, he meant the deter-
 mining of the pitch of _multiples_ of some small fraction of the
 string, = 1:2:3:4:5:6. If we take small c as a starting
-point, the scries of tones represented by the lengths, 1:1/2:1/3:
+point, the series of tones represented by the lengths, 1:1/2:1/3:
 1/4:1/5:1/6 will correspond to the tones c, c′, g′,
 c″, e″, g″; that is to say, tones all of which belong to the
 major chord of c. On the other hand, if we start with the
@@ -291,7 +291,7 @@ monic purposes, the same chord; and the same is true of all positions and
 inversions of every major or minor chord. But it was impossible to attain
 this idea from the standpoint of thoroughbass; indeed, this idea of Zarlino’s
 was pushed more and more into the background, for the thoroughbass system
-conceived polyphony as a web of melodies rather than a succession of chords.
+conceived polyphony as a _web of melodies_ rather than a _succession of chords_.
 From the standpoint of thoroughbass, _a minor chord is no different from a_ 
 _major chord, but an inversion of a major chord is a totally different thing from_ 
 
@@ -336,7 +336,7 @@ the ideas of this book. The series was completed in 1760.
 
 ---
 
-further, that these tones are those which form the major chord. For example,
+further, that _these tones are those which form the major chord_. For example,
 suppose a string produces the tone c, and also its twelfth, g, and seventeenth,
 e′; we have, then, the major chord of c, thus: For a musi-
 cian of Rameau’s ability, this discovery was something more
@@ -407,7 +407,7 @@ ities of his system: (1) By his conceiving the diminished
 chord as a dominant seventh chord with the root omitted,
 _e. g._, B-D-F as the chord with G omitted; and (2) by his 
 conceiving the chord in C major as the _subdominant_ chord 
-with an added sixth, and not as the first inversion of the 
+with an added sixth, and _not_ as the first inversion of the 
 supertonic chord with a seventh, as might have been expected, 
 and as is commonly done now. No musician will deny that 
 
@@ -423,7 +423,7 @@ that dissonant chords are to be regarded as modifications of
 consonant chords, never as fundamental forms.
 
 Rameau modified the conception of the thoroughbass system in this: that
-all _inverted_ chords are to be understood not in the sense of the _bass-tone_, but
+all _inverted_ chords are to be understood _not_ in the sense of the _bass-tone_, but
 as having another tone as root. These roots of inverted chords he called the
 “fundamental basses.” But he retained the practice of reading all chords,
 whether major or minor, _from below upward_. The following illustration
@@ -480,7 +480,7 @@ Vallotti found the scale between the eighth and sixteenth overtones, the
 major chord in 4:5:6, and the minor chord in 10:12:15. But this did
 not account for the _consonance_; this element consists, according to Rameau,
 in the fact that we conceive the tones of the chord as _belonging_ to the funda-
-mental; g and e′ are consonant with c because they resolve or find their
+mental; g and e′ are consonant with c because they _resolve_ or find their
 point of repose in it. But we cannot conceive e″, g″, b″, as belonging to c
 without destroying the consonance.
 
@@ -542,7 +542,7 @@ As a matter of fact, both are correct, if we take into account only _physi_-
 _cal euphony_, _i. e._ the blending of the tones without disturbance. Indeed,
 the major chord of our tempered system is less consonant, if this test alone
 be adopted. But whether even the natural seventh chord, having the pro-
-portions 4:5:6:7, is a musical consonance or not, is another question.†
+portions 4:5:6:7, is a _musical_ consonance or not, is another question.†
 
 \* “Trattato di musica secondo la vera scienza dell’ armonia,” (1754) and “De principj dell’ armonia musi- 
 cule contenuta nel diatonico genere,” (1767).
@@ -607,7 +607,7 @@ open one—
 
 There is another kind of combination (or resultant) tones which did not
 receive adequate attention until very lately, namely, the _coincident overtones_
-(A. von Oettingen, Harmonie-system in dualcr Entwickelung, 1866). Among
+(A. von Oettingen, Harmonie-system in dualer Entwickelung, 1866). Among
 the higher tones of an interval or chord (_i. e._, the overtones of the separate
 tones of the chord, and the combination-tones of the overtones), _the first com_-
 _mon overtone_ of the tones of the chord is most distinctly audible. Its ordi-
