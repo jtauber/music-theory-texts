@@ -1077,7 +1077,7 @@ chord; of the presence of elements belonging to other chords which disturb
 the unity, which contradict the main sense of the chord. The two or more
 chords which are always represented in a dissonant chord are not _coördinate_
 in it, but one of them is chief, and the rest modify it. This modification will
-differ, of course, according to the various relations of the chords rej)resented.
+differ, of course, according to the various relations of the chords represented.
 The experience of centuries has established that the tonic chord in a key
 can only be a major or a minor chord. This we may easily confirm at any
 time by psychological experiment, and must, therefore, regard it as a natural

@@ -1,12 +1,11 @@
 40.
-Die Natur der Harmonik.
 Von
 Dr. Hugo Riemann in Hamburg. *
-ie fast unübersehbare Menge der Lehrbücher der Har-
+Die fast unübersehbare Menge der Lehrbücher der Har-
 monie (Harmonielehren) theilt sich in die zwei Gruppen
-der theoretischen Harmonielehren oder Harmonie-
-systeme und der praktischen Harmonielehren oder
-Generalbaßschulen. Beide haben eine sehr umfängliche Literatur
+der theoretischen Harmonielehren oder _Harmonie-
+systeme_ und der praktischen Harmonielehren oder
+_Generalbaßschulen_. Beide haben eine sehr umfängliche Literatur
 auszuweisen; doch ist die Zahl der direkt für die Praxis berechneten
 Anleitungen zum mehrstimmigen Sak über bezifferte Bässe erheblich
 größer als die der rein theoretisch gehaltenen systematischen Werke
@@ -17,30 +16,28 @@ zelnen Kapiteln theoretische Betrachtungen einzuverleiben, doch muß
 man im Princip beide Arten der Behandlung der Harmonielehre
 wohl auseinanderhalten. Die praktische Harmonielehre, die Ein-
 übung der regelrechten Verbindung der Akkorde im mehrstimmigen
-Sake, ist ein Theil der eigentlichen Kunstlehre, der Unterweisung
+Sa<???>e, ist ein Theil der eigentlichen Kunstlehre, der Unterweisung
 in der Technik der Komposition, die Lehre von der Harmonik da
 gegen ein Theil der Musikwissenschaft, speciell der musikalischen
 Naturforschung, mit welcher die Kunstlehre nur insoweit etwas zu
-• Vortrag, gehalten am Konservatorium zu Hamburg, 4. Febr. 1582.
-12*
-Digitized by Google
-160
-Dr. Hugo Niemann.
-1
-thun hat, als sie aus ihren positiven Ergebnissen Nuzen ziehen
+\* Vortrag, gehalten am Konservatorium zu Hamburg, 4. Febr. 1582.
+
+</pb>
+
+thun hat, als sie aus ihren positiven Ergebnissen Nu<???>en ziehen
 fann.
 Die musikalische Naturforschung erstreckt sich zunächst auf die
-Untersuchung der Natur der tönenden Körper und ist dann
-ein Theil der Physik, speciell der Akustik; verfolgt sie den Ton
+Untersuchung der _Natur der tönenden Körper_ und ist dann
+ein Theil der _Physik_, speciell der Akustik; verfolgt sie den Ton
 weiter auf seinem Wege ins menschliche Ohr und prüft die durch
-ihn erregten Tonempfindungen, so ist sie ein Theil der
-Physiologie; beschäftigt sie sich endlich mit der Natur der
-Tonvorstellungen und ihrer Verknüpfung, so betritt sie das
-Gebiet der Psychologie. Aus den Resultaten der Untersuchung
+ihn erregten _Tonempfindungen_, so ist sie ein Theil der
+_Physiologie_; beschäftigt sie sich endlich mit der Natur der
+_Tonvorstellungen_ und ihrer Verknüpfung, so betritt sie das
+Gebiet der _Psychologie_. Aus den Resultaten der Untersuchung
 auf allen drei Arbeitsfeldern, dem der Physik, Physiologie und
 Psychologie ergeben sich die Elemente einer exakten Theorie der
 Natur der Harmonik, deren specieller Beruf es ist, der praktischen
-Lehre des musikalischen Sazes Mittel und Wege für die Zusam
+Lehre des musikalischen Sa<???>es Mittel und Wege für die Zusam
 menfassung des Besonderen im Allgemeinen, für die Auffindung
 weitergehender Gesichtspunkte und Regeln, überhaupt für ein von
 Willkür freies systematisches Vorgehen an die Hand zu geben.
@@ -66,7 +63,6 @@ Untersuchung der Natur der tönenden Körper beigebrachten mathe-
 matischen Definitionen der konsonanten Intervalle,
 welche von der Sage auf Pythagoras zurückgeführt werden, aber
 <pb>
-Die Natur der Harmonik.
 161
 ohne allen Zweifel noch viel älter find als dieser. Das bekannte
 Märchen von dem verschiedenen Gewicht der Schmiedehämmer,
@@ -150,7 +146,6 @@ der Quarte (Tetrachordentheilungen) auch die mit der Terz 4:5
 eine Konsonanz der Terz zu denken, und weder Zarlino noch Fog-
 <pb>
 71
-Die Natur der Harmonik.
 163
 liani hatten nöthig, sich ihretwillen der Originalität ihrer Idee zu
 entäußern.
@@ -227,10 +222,10 @@ Mittelalter allmählich der jest allein herrschenden umgekehrten wich, habe ich 
 ständlich in meinen „Studien zur Geschichte der Notenschrift" nachgewiesen (Kap. 3:
 Die Umbildung der Auffassung im Mollsinne in die Auffassung im Durfinne
 5. 72-95).
-Digitized by Google
+
+
 <pb>
 9]
-Die Natur der Harmonik.
 165
 notirten, welche Intervalle die höheren Stimmen gegen dieselbe bildeten;
 die Deutschen hatten seit lange ein anderes Mittel für bessere Übersicht-
@@ -269,7 +264,8 @@ das Verhältnis von oben und unten in Bezug auf den Baßton
 unverändert bleibt; denn da er stets vom jeweiligen Baßtone aus-
 geht, so sehlt ihm jede Möglichkeit auszudrücken, daß die Quinte
 c-g und die Quarte g-c ebenso gut dasselbe Verhältnis sind, wie
-Digitized by Google
+
+
 <p>
 166
 Dr. Hugo Riemann.
@@ -311,7 +307,6 @@ der drei Töne c, e und g harmonisch gleichbedeutend sind, ging
 gewiß aus Zarlino's Ausstellung so klar wie nur wünschenswerth
 <pb>
 11]
-Die Natur der Harmonik.
 167
 hervor und auch für den Mollakkord erschienen die verschiedenen
 Umlagerungen als identische Gebilde. Dagegen war es vom
@@ -351,7 +346,8 @@ standtheile der Begleitung wurden; die Stimme des Organisten oder
 Cembalisten, auch wohl Theorbisten oder Gambenspielers war aber
 nichts anderes als ein bezifferter Baß, aus dem der Akkompagnist
 einen regelrechten mehrstimmigen Sak mit melodischen Auszierungen
-Digitized by Google
+
+
 <pb>
 168
 Dr. Hugo Riemann.
@@ -396,7 +392,6 @@ vollständigender Schriften solgten bis 1760.
 <pb>
 13]
 169
-Die Natur der Harmonik.
 entgegengeseztes Phänomen der Untertöne zu begründen. Er
 entdeckte nämlich, daß diejenigen Saiten, von denen ein klingen-
 der Ton Oberton ist (also nach Rameau: die der Unterduodecime
@@ -433,7 +428,8 @@ in unzweideutiger Weise aus, daß alle möglichen Umgestaltungen
 der Akkorde durch Oktavversehung der einzelnen Töne, durch Um-
 kehrung des Verhältnisses von oben und unten auch hinsichtlich des
 Baßtones, durch Oktavverdoppelungen 2c., die harmonische Bedeu-
-Digitized by Google
+
+
 <pb>
 170
 Dr. Hugo Riemann.
@@ -476,7 +472,6 @@ stellungen die Ahnung eines Gedankens aus, auf den ich zurück-
 kommen werde, nämlich daß dissonante Akkorde als Veränderungen
 <pb>
 15
-Die Natur der Harmonik.
 171
 von konsonanten Akkorden, nicht aber selbst als Grundgebilde auf-
 zufassen sind.
@@ -563,7 +558,6 @@ tone, den Durakkord zwischen 4:5:6 und den Mollakkord zwischen
 dabei nicht heraus; denn diese besteht ja bei Rameau in der Auf-
 <pb>
 17]
-Die Natur der Harmonik.
 173
 fassung der Töne des Klangs im Sinne des Grund-
 tones, g und e' sind konsonant mit C, weil sie in ihm aufgehen;
@@ -605,7 +599,8 @@ Ich erwähnte bereits, daß nach 200jährigem Vergessen die von
 Zarlino zuerst gebrachte dualistische Auffassung der Harmonik von
 Rusikal. Vorträge. IV.
 13
-Digitized by Google
+
+
 <pb>
 174
 Dr. Hugo Riemann.
@@ -649,10 +644,10 @@ und »De' principj dell' armonia musicale contenuta nel diatonico genere
 Obertöne, welche dem Durakkorbe des Grundtones nicht angehören, fiebe meine
 „Musikalische Logik (1873, S. 15 ff.) und Musikalische Syntaxis" (1877, S. 7
 u. m.).
-Digitized by Google
+
+
 <pb>
 19j
-Die Natur der Harmonik.
 175
 klange, d. h. hinsichtlich des ungestörten Verschmelzens der Schwin-
 gungsformen den Durakkord der gleichschwebenden Temperatur sogar
@@ -693,7 +688,8 @@ sprechenden, die Unteroktave des tieferen Intervalltones (groß C),
 die Quarte 3:4 (g-c') macht 1 und 2 hörbar (C-c), die Terz 4:5
 (c'-e', die Töne 1, 2 und 3 (C-c-g) u. s. w. Diese tieferen
 13*
-Digitized by Google
+
+
 <pb>
 176
 Dr. Hugo Niemann.
@@ -733,10 +729,10 @@ Dorpat) sieht in dem Multiplikationstone oder wie er ihn nennt
 „phonischen Obertone" den natürlichen Zusammenhalt des
 Mollakkordes; h" ist der gemeinsame Oberton folgender Reihe
 von Tönen:
-Digitized by Google
+
+
 <pb>
 21]
-Die Natur der Harmonik.
 *
 177
 1
@@ -819,11 +815,11 @@ eigentlichen physiologischen Kapitel in Helmholz' Buche sind
 das über die Zerlegung der Klänge durchs Ohr, d. h. die
 *) „Die Lehre von den Tonempfindungen als physiologische Grundlage für
 die Theorte der Musik" (1863, 4. Aufl. 1877).
-Digitized by Google
+
+
 <pb>
 23]
 179
-Die Natur der Harmonik.
 Ausscheidung der einzelnen Obertöne aus der doch nur als eine
 einzige Schwingungsform das Ohr treffenden Schallbewegung, ferner
 das über die Wahrnehmung der verschiedenen Klang-
@@ -859,7 +855,8 @@ eines Akkordes, der die Verhältnisse der ersten Obertöne aufweist:
 eine vollständige Skala des abnehmenden Wohlklangs
 nach Maßgabe der Schwebungen, bis zu den herbsten Dissonanzen
 und musikalisch unmöglichsten Diskordanzen aufstellen, so daß weder
-Digitized by Google
+
+
 <pb>
 180
 Dr. Hugo Riemann.
@@ -898,10 +895,10 @@ Wohlklangs. Seitdem sind eine Anzahl neuerer musiktheoretischer
 Schriften gefolgt, welche die von Öttingen und Loke gerügten Punkte
 der Helmholz'schen Lehre anders gefaßt und eine befriedigende Lösung der
 * Harmoniesystem in dualer Entwickelung" (1866).
-Digitized by Google
+
+
 <pb>
 25]
-Die Natur der Harmonik.
 181
 betreffenden Probleme versucht haben*), wobei das fast ganz ab-
 gerundete Öttingen'sche System die Basis der weiteren Untersuchungen
@@ -984,10 +981,10 @@ die übermäßige Quinte (c-gis) als Terz der Terz (c-e-gis) u. f. f.
 Aber dieser Fortschritt der Erkenntnis ging erst durch Hauptmann
 in die Lehrbücher der Harmonie über. Hauptmann war es, der
 zwar nicht in der Notenschrift aber in der Tonbenennung durch
-Digitized by Google
+
+
 <pb>
 27]
-Die Natur der Harmonik.
 183
 Buchstaben eine Unterscheidung der quintverwandten und
 terzverwandten Töne einführte. Die Bedeutung der bekann
@@ -1068,7 +1065,8 @@ neue Perspektiven eröffnet hat, des Begriffes der Klang vertre
 tung. Mögen alle Theoretiker es geahnt haben, gesagt hat es
 keiner, daß wir Töne als Vertreter von Klängen auffassen.
 Klänge sind zwar nach Helmholz nur Obertonklänge, also Durakkorde,
-Digitized by Google
+
+
 <pb>
 und in der That führt er für die Auffassung des Mollakkordes
 c-es-g die Klänge c (für c-g) und es (für es-g) ein, d. h. der
@@ -1152,7 +1150,6 @@ fachen Ton nebst seinen Ober- und Unteroktaven; wir haben wohl
 nur selten in voller Reinheit die Vorstellung eines nicht näher be
 <pb>
 31]
-Die Natur der Harmonik.
 187
 stimmten Tones, neigen vielmehr dazu, den ein Stück anfangenden
 Ton als Hauptton im Dur- oder Mollsinne zu verstehen. Erheblich
@@ -1237,10 +1234,10 @@ aus der Erweiterung der einfachsten musikalischen Begriffe Konsonanz
 und Dissonanz. Die Psychologie lehrt, daß nicht mehrere Vorstel
 lungen koordinirt in der Auffassung zu bestehen vermögen, sondern
 eine dominirt und die andere erscheint als ihr widersprechend, sie
-Digitized by Google
+
+
 <pb>
 33)
-Die Natur der Harmonik.
 189
 störend. Dieser Sak bewahrheitet sich in der vollkommensten Weise
 beim musikalischen Vorstellen; er giebt den Schlüssel für die wahre
@@ -1307,4 +1304,5 @@ die Grundbegriffe nicht von mir herrühren, sondern, soweit sie nicht
 auf ältere Theoretiker (besonders Rameau) zurückzuführen sind, von
 den drei großen Förderern der Erkenntnis des Wesens der Harmonik:
 Moris Hauptmann, Heinrich Helmholz und Arthur von Öttingen.
-Digitized by Google
+
+
